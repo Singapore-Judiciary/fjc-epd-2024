@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 31 AUGUST 2024'
+description: 'LAST UPDATED: 15 OCTOBER 2024'
 ---
 
 # Family Justice Courts Practice Directions 2024
@@ -10,645 +10,616 @@ description: 'LAST UPDATED: 31 AUGUST 2024'
 
 ## **Contents**
 
-### Part I – Preliminary
+### PART 1 : INTRODUCTION
 
-1\. Introduction
+1\. Citation and commencement
 
-* Citation
-* Applicability
-* Citation of Legislation in Proceedings
-* Updating
-* Forms
-* Registrar’s Circulars
+2\. Application
 
-2\. Calculation of time
+3\. Definitions
 
-### Part II – Commencement of Proceedings
+4\. References to written laws
 
-3\. Documents to be filed at the Registry of the Family Justice Courts
+5\. Updating
 
-4\. Contact information to be provided in cause papers and documents filed in the Family Courts Registry
+6\. Calculation of time
 
-5\. Identification numbers to be stated in cause papers
+7\. Forms
 
-* Parties named in the title of the documents
-* Parties not named in the title of the documents
-* Documents filed by two or more parties
-* Identification numbers for non-parties
-* Special cases
-* Identification numbers
-* Guidelines for the selection of identification numbers
-* Inability to furnish identification number at the time of filing a document
-* Meaning of document
-* Non-compliance
+8\. Registrar’s Circulars
 
-### Part III – Judge-led Approach in Resolving Family Disputes
+### PART 2: PROCEEDINGS UNDER PART 10 OF THE WOMEN’S CHARTER 1961
 
-6\. Judicial Case Management
-
-* Introduction
-* Purposes
-* Principles
-* Key elements
-* Interlocutory applications
-* Case conferences
-* Communications with Court
-
-7\. Guidance on Direct Judicial Communications in International Family
-
-* Introduction
-* Overarching Principles
-* Procedure and Safeguards
-* Initiating the Communication
-* The Form of Communications and Language Difficulties
-* Written Communications
-* Oral Communications
-* Post Communications
-* Keeping Central Authority informed of judicial communications
-
-### Part IV – Processes relating to Children
-
-8\. Child Representative
-
-8A. Parenting Coordinator
-
-9\. Examination of children
+9\. Definitions of this Part
 
 10\. Arrangements for the welfare of children
 
-10A. Service on the immigration and Checkpoints Authority (“ICA”) with Court Orders or Injunctions restraining or prohibiting the taking of child out of jurisdiction
+11\. Seeking the Court’s approval under section 94A(4) of the Act
 
-### Part V – Alternate Dispute Resolution
+12\. Cross-application
 
-11\. Mediation and/or Counselling Directed by Court
+13\. Named person
 
-12\. Mandatory Counselling & Mediation
+14\. Consent to divorce on the ground of 3-year separation
 
-13\. Counselling
+15\. Simplified hearing track for divorce / judicial separation proceedings
 
-### Part VI – Proceedings for the Dissolution of Marriage under Part X of Women’s Charter
+16\. Case conferences
 
-14\. Particulars of Statement of Claim
+17\. Uncontested matrimonial proceedings
 
-* Bankruptcy status of both parties
-* Statement of Particulars
-* Counterclaim
+18\. Documents for use in trials of contested matrimonial proceedings under Part 10 of the Act
 
-15\. Request for simplified hearing track for divorce proceedings where parties have agreed on ancillary matters
+19\. Claims for ancillary relief
 
-* How to apply for simplified uncontested divorce proceedings
+20\. Binding summaries
 
-16\. Agreed Matrimonial Property Plan and Proposed Matrimonial Property Plan
+21\. Agreement on claim(s) for ancillary relief
 
-17\. Status Conferences
+22\. Evidence in proceedings for avoidance of disposition
 
-18\. Uncontested Matrimonial Proceedings in Chambers
+### Part 3: QUASI-CRIMINAL PROCEEDINGS
 
-19\. Uncontested Matrimonial Proceedings in open court hearings
+**3A: General**
 
-20\. Documents for use in trials of contested matrimonial proceedings under Part X of the Women’s Charter (Cap 353)
+23\. Definitions
 
-* Bundle of documents
-* Bundle of authorities
-* Opening statements
-* Timeline for tendering documents
+24\. Application of this Part 3
 
-21\. Affidavit of Assets and Means
+25\. Application of Practice Directions
 
-22\. Documents required for the extraction of Certificate of Making Decree Nisi Absolute and Decree Nisi for matrimonial proceedings filed before 15 December
+26\. Bundles of authorities
 
-### Part VII – Proceedings under Part VII and VIII of Women’s Charter
+27\. Request for Court records
 
-23\. Alternative dispute resolution
+28\. Change of solicitors
 
-23A. Offer to Resolve in maintenance applications
+29\. Other requests
 
-24\. Pre-hearing matters
+30\. Payment in and out of Court
 
-24A. Service of summons under Part VIII of Women’s Charter (except an application made under section 69 or 70)
+31\. Absence of respondent – Category 1 proceedings, Category 2 proceedings and Category 3B proceedings
 
-25\. Documents and affidavits in respect of maintenance proceedings under Part VIII of Women’s Charter (Cap. 353)
+**3B: Category 1 Proceedings**
 
-25A. Appointment of Maintenance Record Officer
+32\. Alternative dispute resolution
 
-25B. Referral for assessment
+33\. Pre-hearing matters
 
-26\. Hearing of maintenance proceedings in chambers&#x20;
+34\. Service of summons under Part 8 of the Women’s Charter 1961 (except an application made under section 69 or 70)
 
-### Part VIIA – Electronic Filing Service under Division 68A of Part 18 of the Family Justice Rules
+35\. Documents and affidavits in respect of proceedings under Parts 7 and 8 of the Women’s Charter 1961
 
-26A. Application
+36\. Appointment of maintenance record officer
 
-26B. Establishment of Electronic Filing Service and appointment of network service provider
+37\. Referral for assessment
 
-26C. Authorised users and authorised agents
+38\. Showing proof of payment
 
-26D. Electronic filing of written complaints
+39\. Interlocutory applications
 
-26E. Documents
+**3C: Category 2 Proceedings**
 
-26F. Documents which cannot be converted into electronic format
+40\. Definitions
 
-26G. Amendment of documents
+41\. Application for transmission of Singapore maintenance order
 
-26H. Limits on size and number of documents submitted using electronic filing service
+42\. Application under section 4 or 5 of the Act
 
-26I. Bundles of Authorities
+43\. Pre-hearing matters
 
-26J. Change of Solicitors
+**3D: Category 3 Proceedings**
 
-26K. Request for Court Records
+44\. Pre-hearing matters
 
-26L. Other Requests
+45\. Interlocutory applications
 
-26M. Showing proof of payment
+46\. Title of proceedings
 
-26N. Payment in and Out of Court
+### Part 4: COMMENCEMENT OF PROCEEDINGS
 
-### Part VIII – Adoption of Children
+**4A: Commencement of Proceedings**
 
-27\. Commencement documents
+47\. Documents to be filed at the Registry
 
-* Filing of commencement documents
-* Contents of the affidavit in support of the originating summons
+48\. Information to be provided in cause papers and documents that are filed in the Registry
 
-28\. Amendment of originating summons and statement
+49\. Identification numbers to be stated in cause papers
 
-29\. Dispensation of Consent and/or Service
+50\. Endorsements on originating processes and other documents
 
-30\. Submission of supporting documents
+51\. Distribution of applications
 
-### Part IX – Youth Courts
+52\. Summonses
 
-31\. Application and Appeals
+53\. Notice of Proceedings
 
-* Application
-* Appeals
+**4B: Proceedings under the Adoption of Children Act 2022**
 
-32\. Magistrate’s complaints (Private summonses)
+54\. Submission of supporting documents
 
-33\. Application for Court Records for Youth Court matters and non-electronically filed cases
+**4C: Proceedings under the Mental Capacity Act 2008**
 
-34\. Initiation of prosecution
+55\. Definitions of this Part
 
-35\. Charges
+56\. Documents to be filed
 
-36\. Checklists
+57\. Where permission is not required to make an application
 
-37\. Applications
+58\. Where permission is required to make an application
 
-38\. Bundles of authorities for Youth Courts proceedings
+59\. Applications involving the appointment of deputies
 
-39\. Documents
+60\. Application for statutory wills
 
-40\. Documents which cannot be converted into electronic format
+61\. Uncontested applications for certain specified matters
 
-41\. Amendment of charges and documents
+**4D: Proceedings under the Status of Children (Assisted Reproduction Technology) Act 2013**
 
-42\. Noting appearances of advocates/prosecutors
+62\. Proceedings under the Status of Children (Assisted Reproduction Technology) Act 2013
 
-43\. Limits on size and number of documents submitted using Electronic Filing Service
+**4E: Proceedings under the Voluntary Sterilisation Act 1974**
 
-### Part X – International Child Abduction Act
+63\. Proceedings under the Voluntary Sterilisation Act 1974
 
-44\. Proceedings under the International Child Abduction Act (Cap. 143C)
+### Part 5: PARTIES TO PROCEEDINGS
 
-* Service of application on named defendants
-* The plaintiff’s supporting affidavit
-* Applications subsequent to the filing of the originating summons in proceedings under the ICAA
-* Form of Order of Court
+64\. Litigation representative in mental capacity proceedings
 
-### Part XI – Mental Capacity Act
+65\. Mental capacity proceedings: where P ceases to lack capacity or dies
 
-45\. Proceedings under the Mental Capacity Act (Cap. 177A)
+66\. Application to be added as a party
 
-46\. Documents to be filed
+67\. Appointment of litigation representative for persons under disability
 
-47\. Where permission is not required to make an application
+68\. Informing of a party’s death in cases where proceedings are to be abated
 
-48\. Where permission is required to make an application
+### Part 6: SERVICE, CONSENT AND RELEVANT PERSONS
 
-49\. Service of application on named defendants and relevant persons
+**6A: Service of Documents**
 
-50\. Relevant persons
+69\. Personal service of processes and documents
 
-51\. Consent of relevant persons
+70\. Substituted and dispensation of service
 
-52\. Notification of P
+**6B: Proceedings under the Adoption of Children Act 2022**
 
-53\. Responding to an application
+71\. Dispensation of consent and / or service
 
-54\. Applications involving the appointment of deputies
+72\. Requirements for substituted and dispensation of service
 
-* The prayers
-* The supporting affidavit by the plaintiff or applicant and the deputies
-* The doctor’s affidavit exhibiting the medical report
-* The affidavit by the successor deputy or deputies
+**6C: Proceedings under the Mental Capacity Act 2008**
 
-55\. Application subsequent to the appointment of deputy
+73\. Service of application on named respondents and relevant persons
 
-56\. Application relating to lasting power of attorney
+74\. Relevant persons
 
-57\. Application for statutory wills
+75\. Consent of relevant persons
 
-58\. Litigation representative in mental capacity proceedings
+76\. Notification of P
 
-59\. Where P ceases to lack capacity or dies
+77\. Responding to an application
 
-* Application to end proceedings
-* Applications where proceedings have concluded
-* Procedure to be followed when P dies
-* Final report by deputy
+### Part 7: JUDGE-LED APPROACH IN RESOLVING FAMILY DISPUTES
 
-60\. Applications subsequent to the filing of the originating summons in mental capacity proceedings
+**7A: Case Management, Mediation and Counselling**
 
-61\. Order of Court
+78\. Judicial case management
 
-61A. Uncontested applications for certain specified matters&#x20;
+79\. Case assignment
 
-### Part XII – Probate Proceedings
+80\. Case conferences
 
-62\. Applications for grant of probate or letters of administration
+81\. Powers of the Court to direct mediation and / or counselling
 
-* Filing of originating summons and supporting documents
-* Rejection of documents
+82\. Mandatory counselling and mediation
 
-63\. Filing of supporting affidavit
+83\. Mediation conducted by the Court
 
-64\. Amendment of originating summons or statement
+84\. Court-ordered private mediation
 
-65\. Affidavits of Foreign Law
+85\. Counselling
 
-66\. Filing of schedules of property for non-dutiable estates where death occurred before 15 February 2008
+**7B: Family Neutral Evaluation**
 
-67\. Filing of schedule of assets for estates where death occurs on or after 15 February 2008
+86\. Family Neutral Evaluation process
 
-68\. Security for grants of letters of administration
+87\. Confidentiality
 
-69\. Applications for dispensation of sureties for grants of letters of administration
+**7C: Guidance on Direct Judicial Communications**
 
-70\. Caveat and probate application searches to be conducted when requesting to extract grant
+88\. Guidance on direct judicial communications in international family proceedings affecting children
 
-71\. Amended grants and re-grants
+**7D: Amendment of Documents**
 
-### Part XIIA – Vulnerable Adults Act
+89\. Amendment of originating application for adoption of child
 
-71A. Applications under Vulnerable Adults Act
+90\. Amendment of documents
 
-71B. Forms to be filed
+### Part 8: DISCLOSURE
 
-71C. Application for Court Records
+91\. Inspection of original of document disclosed
 
-71D. Pre-hearing matters
+92\. Voluntary request and disclosure
 
-### Part XIII- General Procedure
+93\. How to provide disclosure
 
-72\. Originating Summonses
+94\. Relying on documents / information disclosed through correspondence
 
-* Forms for originating summonses
-* Originating summons to be heard in open Court
+### Part 9: EXPERT EVIDENCE
 
-73\. Endorsements on originating process and other documents
+95\. Examination of children
 
-74\. Forms of documents to be filed for proceedings under Chapter 4A of Part X of the Women’s Charter (Cap. 353)
+96\. Expert Witness Template
 
-75\. Distribution of applications
+97\. Application for approval to cross-examine an expert witness
 
-76\. Summonses
+### Part 10: RELEVANT PROFESSIONALS AND CHILD REPORTS
 
-77\. Supporting Affidavits for Specific Applications
+98\. Child representative
 
-* Originating Summons for leave to file Writ under section 94 of the Women’s Charter
-* Summons for leave to file additional Ancillary Matters Affidavits
-* Summons to vary child-related orders
-* Summons to vary maintenance orders made under Part X of Women’s Charter
+### Part 11: PARENTING COORDINATION PROGRAMME
 
-78\. Personal service of processes and other documents
+99\. Parenting coordinator
 
-79\. Substituted and Dispensation of Service
+### Part 12: INJUNCTIONS AND OTHER INTERIM RELIEF BEFORE HEARING
 
-* Application for substituted service by way of posting on the front door at the defendant’s last known address in Singapore (“the address”)
-* Application for substituted service by way of prepaid AR registered post / ordinary post
-* Application for substituted service by way of email
-* Application for substituted service by way of advertisement
-* Application for dispensation of service
+100\. Applications without notice for injunctions
 
-80\. Discovery, inspection and interrogatories in respect of ancillary relief or financial relief under Women’s Charter
+101\. Injunctions prohibiting the disposal of assets
 
-81\. Applications for electronic Discovery
+102\. Documents in support of applications without notice for injunctions (including injunctions prohibiting the disposal of assets)
 
-* Location of electronically stored documents
-* Definition of metadata information
-* Time to consider electronic discovery issues during general discovery
-* Requests for discovery
-* Applications for discovery
-* Matters to which regard shall be had in determining whether discovery or inspection is necessary
-* Form of list
-* Inspection of electronically stored documents
-* Inspection of computer databases and electronic media or recording devices
-* Supply of copies of electronically stored documents
-* Requests for the supply of copies
-* Applications for the supply of copies
-* Restriction on use of privileged document, inspection of which has been inadvertently allowed
-* Costs
+103\. Providing the Immigration and Checkpoints Authority (“ICA”) with Court orders or injunctions restraining or prohibiting the taking of child out of Singapore
 
-82\. Applications for discovery or interrogatories against network providers
+### PART 13: COURT HEARINGS AND EVIDENCE
 
-83\. Ex-parte applications for injunctions
+**13A: Conduct of Court Proceedings and Hearings-Related Matters**
 
-84\. Mareva injunctions
+104\. Attendance at hearings in the Family Justice Courts
 
-85\. Documents in support of ex parte applications for injunctions (including Mareva injunctions)
+105\. Weekend / Public Holiday Duty Registrar and Judge at the Family Courts
 
-86\. Case Conferences
+106\. Duty Registrar and Duty Magistrate
 
-87\. Attendance at hearings in the Family Justice Courts
+107\. Request for urgent hearing before Duty Judge
 
-88\. Electronic filing of documents and authorities for use in Court generally
+108\. Request for urgent hearing dates or urgent hearings prior to the filing of the application through the Electronic Filing Service
 
-* Time for filing of documents
-* General requirements as regards documents filed for use in Court
-* Bundle of authorities
+109\. Requesting a hearing date through the Electronic Filing Service
 
-89\. \[deleted]
+110\. Adjournment or vacation of hearing dates and part-heard cases
 
-90\. Documents for use in trials
+111\. Absence of parties
 
-* Time for filing of documents under rule 567(1) of the Family Justice Rules
-* Mode of filing documents
-* Bundle of documents
-* Core bundle of documents
-* Opening statements
-* Bundle of authorities
+112\. Attendance of solicitors
 
-91\. Hearing in Chambers
+113\. Absence from Court on medical grounds
 
-92\. Written Submissions and Bundle of Authorities for Special Date hearings
+114\. The Central Queue Management System and Central Display Management System
 
-93\. Citation of written judgments
+115\. Precedence and preaudience of Senior Counsel
 
-* Use of judgments as authorities in submissions
-* Use of judgments from foreign jurisdictions
-* Citation practice
-* The neutral citation system for local judgments
-* Ancillary provisions
+116\. Court dress
 
-94\. Submissions and examinations by leading and assisting counsel
+117\. Submissions and examination by leading and assisting solicitor
 
-95\. Amendment of documents
+118\. Applications under section 43(3) or 57(8) of the Adoption of Children Act 2022 or section 14 of the Guardianship of Infants Act 1934
 
-* General requirements for amendment of any document
-* Colour scheme for amendments
-* Amendment for third time or more
-* Cases to which the requirements in sub-paragraphs (1) and (2) do not apply
-* Amendment endorsements on electronic forms
-* Amendments made on original writ or originating summons (where amendments are not numerous or lengthy)
-* Amendment of case title to add a party
+119\. Use of electronic and other devices
 
-96\. Waiting time for the hearing of matters
+120\. Publication of and reports and comments on Court cases
 
-97\. Request for urgent hearing dates or urgent hearings prior to the filing of the application through the Electronic Filing Service
+121\. Production of record of hearing
 
-98\. Requesting a hearing date through the Electronic Filing Service
+122\. Application for Court records and certification of transcripts for family matters
 
-99\. Written submissions for contested inter partes applications in chambers
+123\. Access to case file, inspection, taking copies of documents and conducting searches
 
-100\. Adjournment or vacation of hearing dates and part-heard cases
+**13B: Documents and Authorities for use in Court**
 
-101\. Requests for further arguments before the Judge or Registrar
+124\. Filing of documents and authorities for use in Court generally
 
-102\. Absence of parties and mode of hearing
+125\. Hearings in chambers
 
-103\. Production of record of hearing
+126\. Formatting requirements and page limits for written submissions
 
-* Record of Trials
-* Request for Digital Audio Recording and Transcription Service for Hearings other than Trials
-* Applications for Digital Audio Recording and Transcription Service
+127\. Written submissions and bundles of authorities for special date hearings in the Family Division
 
-104\. Use of electronic and other devices
+128\. Citation of written judgments
 
-105\. Application of Court records and certification of transcripts for family matters
+**13C: Consents**
 
-106\. Access to case file, inspection, taking copies of documents and conducting searches
+129\. Consent orders
 
-* Access by parties to a case file
-* File inspection by non-parties or parties who are not registered users
-* Obtaining certified true copies of documents
-* Electronic cause books and registers maintained by the Registry
+**13D: Evidence – Witnesses, Affidavits and Exhibits**
 
-107\. Personal Data
+130\. Definitions
 
-* Consent to collection, use or disclosure of personal data
-* Access to, and correction of, personal data contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar
-* Access to, and correction of, personal data contained in electronic cause books and registers maintained by the Registry
+131\. Witnesses
 
-108\. Witnesses
+132\. Giving of evidence by person outside Singapore through live video link or live television link in any proceedings (other than proceedings in a criminal matter)
 
-* Issuance of subpoenas
-* Release of witness upon completion of evidence
+133\. Form of affidavits
 
-108A. Giving of evidence by person outside Singapore through live video or live television link in any court proceedings (other than proceedings in a criminal matter)
+134\. Forms that are deemed to be affidavits
 
-109\. Form of affidavits
+135\. Non-documentary exhibits to affidavits
 
-* Affidavits filed electronically
-* Affidavits that are not filed electronically
-* Hard copy affidavits
+136\. Documentary exhibits to affidavits
 
-110\. Exhibits to affidavits
+137\. Affirming and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
 
-* Non-documentary exhibits
-* Exhibits to affidavits filed electronically
-* Exhibits to affidavits that are not filed electronically
+138\. Affirming of documents by persons who do not understand English, are illiterate or blind
 
-111\. Swearing or affirming of affidavits, statutory declarations and oaths
+139\. Effect of non-compliance
 
-112\. Effect of non-compliance
+140\. Objections to the contents of affidavits of evidence-in-chief
 
-113\. Objections to the contents of affidavits of evidence-in-chief
+### PART 14: PAYMENT INTO AND OUT OF COURT
 
-114\. Draft orders of Court
+141\. Filing directions to the Accountant-General for payment into and out of Court
 
-115\. Unnecessary extraction of orders of Court
+### PART 15: JUDGMENTS AND ORDERS
 
-116\. Draft consent orders
+142\. Draft orders of Court
 
-* Orders relating to disposition or transfer of property
-* Recording of consent orders
-* Content of the draft consent order
-* Recording a consent order in the manner set out in sub-paragraph (3)(a) to (c)
-* Recording a consent order in the manner set out in sub-paragraph (3)(d)
-* Extracting an Order granted by Consent
+143\. Extracting an order granted by consent
 
-117\. Judgment Interest
+144\. Unnecessary extraction of orders of Court
 
-* Interest on costs
-* Pre-judgment non-contractual interest
-* Interest under an order of court made under Part 18 Division 26 of the Family Justice Rules
+145\. Order of Court for proceedings under the Mental Capacity Act 2008
 
-118\. Filing of writs of execution through the Electronic Filing Service
+### PART 16: APPEALS
 
-119\. Sale of immovable property
+146\. Appeals under Part 19 of the Family Justice (General) Rules 2024
 
-120\. Writs of execution & writs of distress – movable property
+147\. Request for further arguments before Judge
 
-121\. Requests for the Bailiff’s Attendance
+148\. Use of presentation slides for all proceedings before the Family Division of the High Court
 
-122\. Examination of Judgment Debtor
+### PART 17: APPEALS FROM TRIBUNALS TO FAMILY DIVISION AND CASE STATED
 
-123\. Committal proceedings
+149\. Appeals from tribunals and applications for a case to be stated or by way of case stated to the Family Division under Part 20 of the Family Justice (General) Rules 2024
 
-124\. Appeals
+### PART 18: COSTS
 
-125\. Filing of records of appeal and written cases
+150\. Definitions
 
-* Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules
-* Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules
-* Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules
+151\. Basis of assessment
 
-126\. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules
+152\. Form of bill of costs
 
-127\. Skeletal arguments for appeals before the Family Division of the High Court
+153\. Electronic filing of bills of costs for assessment
 
-128\. Use of presentation slides for all proceedings before the Family Division of the High Court
+154\. Objections
 
-* Typeface
-* Colours
-* Animation and sounds
-* Corporate logos
+155\. Amount allowed as disbursements on account of use of Electronic Filing Service
 
-129\. Request for waiver of deferment of court fees in the Family Division of the High Court
+156\. Assessments involving the Public Trustee or the Director of Legal Aid
 
-130\. Basis of taxation
+157\. Fixing costs instead of ordering assessment
 
-131\. Form of bill of costs
+### PART 19: ENFORCEMENT OF JUDGMENTS AND ORDERS
 
-132\. Registrar’s Certificate
+158\. Requests for the bailiff’s attendance
 
-133\. Objections
+159\. Seizure or attachment under an enforcement order
 
-134\. Amount allowed as disbursement on account of use of electronic transmission
+160\. Claims and objections to seizure or attachment
 
-135\. Taxations involving the Public Trustee or Director of Legal Aid
+161\. Sale and valuation of seized property
 
-136\. Fixing costs in lieu of ordering taxation
+162\. Sale of immovable property
 
-137\. Costs scheduling
+163\. Bailiff’s Internet website
 
-138\. Operating hours of the Family Justice Courts
+164\. Examination of enforcement respondent
 
-139\. Hours for the sittings of the Family Justice Courts
+### PART 20: COURT FEES
 
-140\. Application
+165\. Definitions of this Part
 
-141\. Establishment of Electronic Filing Service and appointment of network service provider
+166\. Request for waiver or deferment of court fees in Family Division
 
-142\. Appointment of agent to establish service bureau
+167\. Electronic payment of court fees
 
-143\. Registered users and authorised users
+168\. Stamping of documents
 
-144\. Documents which must be filed, served, delivered etc., using the Electronic Filing Service
+### PART 21: ELECTRONIC FILING SERVICES
 
-145\. Form of documents
+**21A: General**
 
-146\. Pagination of documents
+169\. Application
 
-147\. Filing documents through service bureau
+**21B: Electronic Filing under the IELS**
 
-148\. Filing of documents to the Family Justice Courts through a Supreme Court service bureau
+170\. Proceedings for which the IELS is to be used
 
-149\. Limits on the size and number of documents submitted using the Electronic Filing Service
+171\. Establishment of Electronic Filing Service and appointment of electronic filing service provider
 
-150\. Documents which cannot be converted into an electronic format
+172\. Appointment of agent to establish service bureau
 
-151\. Rejection of documents, back-dating and refund of penalty
+173\. Registered user and authorised user
 
-152\. Hard copies of documents filed electronically
+174\. Certificate of Service
 
-153\. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service
+175\. Form of documents
 
-* Consolidated, transferred or converted cases in civil proceedings
+176\. Pagination of documents
 
-154\. Amendment of documents originally filed in court by entering relevant information in an electronic template
+177\. Filing documents through service bureau
 
-155\. Filing directions to the Accountant-General for payment into and out of Court
+178\. Filing of documents to the Family Justice Courts through another service bureau
 
-* Direction to Accountant-General for Payment In or Payment Out
-* Request for information on balance of monies paid into Court
+179\. Limits on the size and number of documents submitted using the IELS
 
-156\. Electronic payment of Court fees
+180\. Documents which cannot be converted into an electronic format
 
-* Implementation of electronic means for payment of Court fees
-* Modes of payment by electronic means
-* Scope of payment by electronic means
-* Registrar’s discretion
+181\. Rejection of documents, back-dating and refund of penalty
 
-157\. Stamping of documents
+182\. Hard copies of documents
 
-### Part XIV – General Matters
+183\. Responsibility for accuracy and completeness of information submitted using the IELS
 
-158\. Weekend/Public Holiday Duty Registrar and Judge at the Family Courts
+**21C: Electronic Filing under the iFAMS**
 
-159\. Duty Registrar and Duty Magistrate
+184\. Proceedings for which the iFAMS is to be used
 
-159A. Request for urgent hearing before Duty Judge
+185\. Establishment of Electronic Filing Service and appointment of electronic filing service provider
 
-* Request for urgent hearing before Duty District Judge or Assistant Registrar of the Family Justice Courts
-* Request for urgent hearing before Judge of the Family Division of the High Court
+186\. Authorised user and authorised agent
 
-160\. Attendance of solicitors in Court
+187\. Electronic filing of written complaints
 
-161\. Use of Video or Telephone Conferencing for Hearings
+188\. Documents
 
-* Guidelines for Video and Telephone Conferencing
-* Directions for Hearing by Video and Telephone Conferencing
-* Conduct of Hearing
+189\. Documents which cannot be converted into electronic format
 
-161A.Technology Facilities in Supreme Court Building
+190\. Amendment of documents
 
-* Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities
-* Applications to use the Video Conference Facilities and Usage of Additional Equipment
-* Applications to use the Mobile Infocomm Technology Facilities
-* Fees
+191\. Limits on size and number of documents submitted using the iFAMS
 
-162\. Absence from Court on medical grounds
+**21D: Electronic Filing under the ICMS**
 
-163\. Publication of & Reports and Comments on Court Cases
+192\. Establishment of Electronic Filing Service and proceedings for which the ICMS is to be used
 
-164\. Citation of Case Numbers
+### PART 22: ADMINISTRATIVE MATTERS
 
-165\. The Electronic Queue Management System and Central Display Management System
+193\. Personal data
 
-166\. Precedence and preaudience of Senior Counsel
+194\. Operating hours of the Family Justice Courts
 
-167\. Court dress
+195\. Hours for the sittings of the Family Justice Courts
 
-* Trials in Court&#x20;
-* Hearings in Chambers&#x20;
-* Mediations
+196\. Use of video or telephone conferencing for hearings
 
-168\. Requests and Other Correspondence
+197\. Technology facilities in Supreme Court building
 
-* General Correspondence
-* Request to adjourn, reschedule or vacate a hearing date
+198\. Citation of case numbers
 
-169\. Requests for Court interpreters
+199\. Requests and other correspondence
 
-* Family Division of the High Court
-* Family Courts
-* Translation
+200\. Request for court interpreters
 
-170\. Authorisation for collection of mail and Court documents
+201\. Authorisation for collection of Court documents or mail
 
-### Part XV – Litigants in Person
+202\. The Friends of Litigant-in-Person (“FLiP”) Scheme
 
-171\. The Family Court Friend Scheme &#x20;
+### PART 23: APPLICATION AND CITATION OF CASE NUMBERS (PROBATE AND OTHER MATTERS PROCEEDINGS)
 
-### Appendix A: Forms&#x20;
+203\. Application of provisions of the Rules of Court 2021
 
-### Appendix B: Discovery and Inspection of Electronic Documents
+204\. Application of these Practice Directions
 
-### Appendix C: Sample Bills of Costs
+205\. Application of the Supreme Court Practice Directions 2021
 
+206\. Citation of case numbers
 
+### PART 24: NON-CONTENTIOUS PROBATE PROCEEDINGS
 
+207\. Application of this Part
+
+208\. Applications for grant of probate or letters of administration or resealing
+
+209\. Filing of supporting affidavit
+
+210\. Affidavits of due execution and affidavits as to terms, conditions and date of execution of will
+
+211\. Affidavits of foreign law or certificate of notary in relation to foreign law
+
+212\. Filing of Schedule of Assets for estates where death occurs on or after 15 February 2008
+
+213\. Filing of schedules of property for non-dutiable estates where death occurred before 15 February 2008
+
+214\. Security for grants of letters of administration
+
+215\. Applications for dispensation of sureties for grants of letters of administration
+
+216\. Issuance of grant
+
+217\. Amendment of originating application and grant
+
+218\. Words or expressions where translation is not required
+
+### PART 25: CONTENTIOUS PROCEEDINGS UNDER THE FAMILY JUSTICE (PROBATE AND OTHER MATTERS) RULES 2024
+
+219\. Definitions
+
+220\. Judge led approach in resolving disputes and case management
+
+221\. Attendance of solicitors at case conferences
+
+222\. Documents to be filed for case conferences
+
+223\. Overview of amicable resolution of dispute
+
+224\. Amicable resolution offer and response to amicable resolution offer
+
+225\. Powers of the Court to direct mediation
+
+226\. Mediation conducted by the Court
+
+227\. Court-ordered private mediation
+
+228\. Transfer of proceedings
+
+229\. Appeals&#x20;
+
+### PART 26: YOUTH COURTS
+
+230\. Application and Appeals
+
+231\. Magistrate’s complaints (private summonses)
+
+232\. Application for Court Records for Youth Courts matters
+
+233\. Initiation of prosecution
+
+234\. Charges
+
+235\. Checklists
+
+236\. Applications
+
+237\. Bundles of authorities for Youth Courts Proceedings
+
+238\. Documents
+
+239\. Documents which cannot be converted into electronic format
+
+240\. Amendment of charges and documents
+
+241\. Noting of appearances of solicitors / prosecutors
+
+242\. Limits on size and number of documents submitted using the ICMS
+
+243\. Giving evidence through live video or television link
+
+244\. Documents for use in criminal trials
+
+### PART 27: APPLICABILITY OF COURT FORMS
+
+245\. Applications and documents with no specific court forms
+
+246\. General matters to note
+
+247\. Table of Forms
+
+* Forms in Appendix A (Forms for use in Family Justice (General) Rules 2024)
+* Forms in Appendix B (Common forms for use in Family Justice (General) Rules 2024 and Family Justice (Probate and Other Matters) Rules 2024)
+* Forms in Appendix C (Forms for use in Family Justice (Probate and Other Matters) Rules 2024)
+* Forms in Appendix D (Forms for use in Family Justice (Protection from Harassment) Rules 2024)
+* Appendix E (Sample Bills of Costs)
+
+### APPENDIX A: FORMS FOR USE IN FAMILY JUSTICE (GENERAL) RULES 2024
+
+### APPENDIX B: COMMON FORMS FOR USE IN FAMILY JUSTICE (GENERAL) RULES 2024 AND FAMILY JUSTICE (PROBATE AND OTHER MATTERS) RULES 2024
+
+### APPENDIX C: FORMS FOR USE IN FAMILY JUSTICE (PROBATE AND OTHER MATTERS) RULES 2024
+
+### APPENDIX D: FORMS FOR USE IN FAMILY JUSTICE (PROTECTION FROM HARASSMENT) RULES 2024)
+
+### APPENDIX E: SAMPLE BILLS OF COSTS
+
+### APPENDIX F: LIST OF FAMILY JUSTICE (GENERAL) RULES 2024 FORMS WHICH APPLY TO YOUTH COURT PROCEEDINGS
