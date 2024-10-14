@@ -40,7 +40,7 @@ _**Format**_
 
 (c) This sub-paragraph sets out the format of a bill of costs.
 
-> **Party-and-party bills**
+> Party-and-party bills
 >
 > (i) For party-and-party bills:
 >
@@ -52,11 +52,11 @@ _**Format**_
 > >
 > > (D) Form 142 of Appendix B of these Practice Directions should be used for non-contentious business.
 >
-> **Specimen bills**
+> Specimen bills
 >
 > (ii) Specimen bills illustrating the use of Forms 140, 141 and 142 of Appendix B of these Practice Directions are found in Appendix E of these Practice Directions.
 >
-> **Solicitor-and-client bills**
+> Solicitor-and-client bills
 >
 > (iii) A bill of costs drawn up for assessment of costs between a solicitor and his or her client should be drawn up in the same manner described in sub-paragraph (c)(i) except as follows:
 >
@@ -72,7 +72,7 @@ _**Goods and services tax**_
 
 (e) A party claiming goods and services tax (GST) in a bill of costs must comply with the directions set out in this sub-paragraph. A party who fails to comply with the directions set out in this sub-paragraph will be presumed not to be claiming GST in the bill concerned.
 
-> **Registration numbers**
+> Registration numbers
 >
 > (i) For registration numbers:
 >
@@ -84,11 +84,11 @@ _**Goods and services tax**_
 > >
 > > (D) Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: “Applicant / Respondent / (or as the case may be): no GST Reg. No.”
 >
-> **Input tax allowable**
+> Input tax allowable
 >
 > (ii) The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act 1993, this proportion should be 100%.
 >
-> **Apportionment**
+> Apportionment
 >
 > (iii) For apportionment:
 >
@@ -96,7 +96,7 @@ _**Goods and services tax**_
 > >
 > > (B) The third section, which sets out the disbursements made in the cause or matter, should similarly be divided, with the first part setting out the disbursements on which no GST is chargeable by the solicitors for the receiving party or the receiving party, as the case may be.
 >
-> **Summary of the GST claimed for work done**
+> Summary of the GST claimed for work done
 >
 > (iv) Where applicable, the following information should be included at the end of the first and of the second sections:
 >
@@ -108,7 +108,7 @@ _**Goods and services tax**_
 > >
 > > (D) a quantification of the GST claimed on the costs claimed in the section concerned.
 >
-> **Summary of the GST claimed for disbursements**
+> Summary of the GST claimed for disbursements
 >
 > (v) Where applicable, the following information should be included at the end of the third section:
 >
@@ -122,7 +122,7 @@ _**Goods and services tax**_
 > >
 > > (E) a quantification of the GST claimed on the disbursements.
 >
-> **Registrar’s certificate**
+> Registrar’s certificate
 >
 > (vi) The total amount of GST allowed on a bill of costs will be indicated as a separate item in the Registrar’s certificate. Solicitors are responsible for ensuring that the GST figures accurately reflect the sums allowed by the Registrar.
 

@@ -34,7 +34,7 @@
 
 _**Application**_
 
-(1) The directions in this Part must be read in conjunction with the Criminal Procedure Code (Electronic Filing and Service for Criminal Proceedings in the State Courts) Regulations 2013.
+(1) The directions in this Part must be read in conjunction with the Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013.
 
 _**Appeals**_
 
@@ -52,7 +52,7 @@ Magistrate’s complaints involving infringement of copyright / trademarks must 
 
 (3) Service of summons by solicitors’ clerks
 
-> (a) Solicitors are informed that any summons issued pursuant to Section 153 Criminal Procedure Code 2010 must be served at least 7 days before the return date of the summons if such service is undertaken by the firm’s clerk. This is because the authorization to serve will lapse 7 days before the return date.
+> (a) Solicitors are informed that any summons issued pursuant to Section 153 of the Criminal Procedure Code 2010 must be served at least 7 days before the return date of the summons if such service is undertaken by the firm’s clerk. This is because the authorization to serve will lapse 7 days before the return date.
 >
 > (b) If the summons is already served on the respondent 7 days before the mention date, the attached summons must be returned to the Registry immediately after service. Failure to do so will result in the summons not being listed for mention.
 >
@@ -170,25 +170,25 @@ Where a charge or document is required to be amended, a fresh copy of the charge
 
 > (a) where the application is for the youth to give evidence by means of a live video or live television link under section 281(5A) of the Criminal Procedure Code 2010, the application should state:
 >
-> > (i) where the youth will be giving evidence from (whether a place        within a Court, a prison, an approved centre or institution in Singapore           as defined in the Criminal Procedure Code 2010) or any other place in Singapore;
+> > (i) where the youth will be giving evidence from (whether a place within a Court, a prison, an approved centre or institution in Singapore as defined in the Criminal Procedure Code 2010 or any other place in Singapore);
 > >
 > > (ii) the administrative and technical facilities and arrangements to be made at the place from which the youth is to make an appearance or to give evidence from; and
 > >
-> > (iii) the reasons for making such an application, and in particular, why it           would be in the interests of justice to allow the application;
+> > (iii) the reasons for making such an application, and in particular, why it would be in the interests of justice to allow the application;
 >
 > (b) where the application is for a witness (not being the youth) who is not in Singapore to give evidence from a place that is not in Singapore by means of a live video or live television link, the application should also state:
 >
-> > (i) whether the witness is a witness specified in section 281(5B)(c) of the        Criminal Procedure Code 2010, and if so, the capacity of the witness (e.g, an expert witness, factual witness or otherwise);
+> > (i) whether the witness is a witness specified in section 281(5B)(c) of the Criminal Procedure Code 2010, and if so, the capacity of the witness (e.g, an expert witness, factual witness or otherwise);
 > >
-> > (ii) the administrative and technical facilities and arrangements to be    made at the place from which the witness is to give evidence; and
+> > (ii) the administrative and technical facilities and arrangements to be made at the place from which the witness is to give evidence; and
 > >
-> > (iii) the reasons for making such an application, and in particular, why it           would be in the interests of justice to allow the application.
+> > (iii) the reasons for making such an application, and in particular, why it would be in the interests of justice to allow the application.
 
 (3) The Court may, in a proper case, permit appropriate person(s) to be present with the witness (including a youth offender giving evidence as a witness, where appropriate) at the place where the witness is giving evidence from. Such person(s) may include a parent, a guardian, an officer of the Court, a counsellor, a social worker or any such other person(s) as the Court deems fit.
 
 (4) If a youth is not represented by a solicitor, the Judge will explain to him or her the process of a witness or the youth (as the case may be) giving evidence through a video link.
 
-(5) Microphones have been installed for the Judge, prosecutor, counsel, witness, interpreter and the youth who are physically in Court. The oral proceedings, including the testimony of the witness, will be relayed and broadcast through the courtroom speaker system. When a video link session is in progress, prosecutors and counsel who are physically in Court are reminded to speak clearly and slowly into the microphones which are placed on the tables. In order to ensure clarity in the audio transmissions, no two persons should speak simultaneously into the microphones.
+(5) Microphones have been installed for the Judge, prosecutor, solicitor, witness, interpreter and the youth who are physically in Court. The oral proceedings, including the testimony of the witness, will be relayed and broadcast through the courtroom speaker system. When a video link session is in progress, prosecutors and solicitors who are physically in Court are reminded to speak clearly and slowly into the microphones which are placed on the tables. In order to ensure clarity in the audio transmissions, no two persons should speak simultaneously into the microphones.
 
 ## 244. Documents for use in criminal trials
 
@@ -204,4 +204,4 @@ Where a charge or document is required to be amended, a fresh copy of the charge
 
 (6) Parties may obtain directions of the Court if they are uncertain if the documents should be electronically filed, submitted on a CD-ROM, DVD-ROM or such other storage medium, or tendered by hard copy.
 
-(7) The party tendering a document(s) a trial (i.e., the prosecution or defence) must provide hard copies of documents at trial to the unrepresented party and to the witness.
+(7) The party tendering document(s) at trial (i.e., the prosecution or defence) must provide hard copies of the document(s) at trial to the unrepresented party and to the witness.

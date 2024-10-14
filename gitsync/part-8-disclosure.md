@@ -44,9 +44,9 @@ A party who wishes to inspect the original of any document disclosed pursuant to
 
 ## 93. How to provide disclosure
 
-(1) Where the Family Justice (General) Rules 2024 allow or the parties mutually agree, the disclosing party may elect to provide the documents / information by (a) filing and serving a separate affidavit containing the same or (b) correspondence in any agreed manner of communication such as letter or email.
+(1) Where the Court allows or the parties mutually agree, the disclosing party may elect to provide the documents / information by (a) filing and serving a separate affidavit containing the same or (b) correspondence in any agreed manner of communication such as letter or email.
 
-(2) When providing disclosure, the disclosing party must ensure that the provided documents / information are tagged to the specific item of request. For this purpose, the disclosing party may prepare a List of Disclosure with the following information:
+(2) When providing disclosure in any manner, the disclosing party must ensure that the provided documents / information are tagged to the specific item of request. For this purpose, the disclosing party may prepare a List of Disclosure with the following information:
 
 | Item no. (in Court order or disclosure table) | Brief description of information / document required             | Documents / information found in pages: |
 | --------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------- |

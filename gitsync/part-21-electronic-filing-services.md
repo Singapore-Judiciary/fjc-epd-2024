@@ -190,7 +190,7 @@ _**Consolidated or transferred cases in civil proceedings**_
 
 ## 184. Proceedings for which the iFAMS is to be used
 
-Pursuant to Part 28, Rules 3 and 6 of the Family Justice (General) Rules 2024, the Registrar hereby specifies that the iFAMS is to be used for an application under Part 5, Rule 7 of the Family Justice (General) Rules 2024 and all Category 1 proceedings, Category 2 proceedings and Category 3 proceedings as defined in Part 3, Rule 2 of the Family Justice (General) Rules 2024 and all documents to be filed with, served on, delivered or otherwise conveyed to the Registrar in such proceedings must be so filed, served, delivered or otherwise conveyed using the iFAMS.
+Pursuant to Part 28, Rules 3 and 6 of the Family Justice (General) Rules 2024, the Registrar hereby specifies that the iFAMS is to be used for an application under Part 5, Rule 8 of the Family Justice (General) Rules 2024 and all Category 1 proceedings, Category 2 proceedings and Category 3 proceedings as defined in Part 3, Rule 2 of the Family Justice (General) Rules 2024 and all documents to be filed with, served on, delivered or otherwise conveyed to the Registrar in such proceedings must be so filed, served, delivered or otherwise conveyed using the iFAMS.
 
 ## 185. Establishment of Electronic Filing Service and appointment of electronic filing service provider
 
@@ -230,7 +230,7 @@ All complaints are to be electronically filed through the iFAMS. To avoid doubt,
 
 > (a) Applicants acting in person who access the system as authorised users using their SingPass shall file a written complaint which complies with the requirements of Part 3, Rule 7(4) of the Family Justice (General) Rules 2024.
 >
-> (b) Solicitors acting for applicants shall file a written complaint which complies with the applicable requirements stated in Part 3, Rule 7(5) or (6) of the Family Justice (General) Rules 2024, as the case may be.
+> (b) Solicitors acting for applicants shall file a written complaint which complies with the requirements of Part 3, Rule 7(6) of the Family Justice (General) Rules 2024.
 >
 > (c) Written complaints filed by an authorised user described under paragraphs 186(2)(b) to (e) of these Practice Directions on behalf of an applicant shall comply with the requirements of Part 3, Rule 7(5) of the Family Justice (General) Rules 2024.
 

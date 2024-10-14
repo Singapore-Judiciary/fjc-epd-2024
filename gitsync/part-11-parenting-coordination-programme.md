@@ -2,7 +2,7 @@
 
 > 99\. Parenting coordinator
 
-## 98. Parenting coordinator <a href="#id-44-proceedings-under-the-international-child-abduction-act-cap-143c" id="id-44-proceedings-under-the-international-child-abduction-act-cap-143c"></a>
+## 99. Parenting coordinator <a href="#id-44-proceedings-under-the-international-child-abduction-act-cap-143c" id="id-44-proceedings-under-the-international-child-abduction-act-cap-143c"></a>
 
 (1) Upon the making of an order for the parties to participate in a parenting coordination programme, the Registrar will select a parenting coordinator from the Court’s panel of parenting coordinators and send a Notice of Acceptance / Non-Acceptance by Parenting Coordinator (Form 97 of Appendix A of these Practice Directions) (“Notice”) to the selected member by email together with a copy of the Court’s order. The member may choose to accept or decline such an appointment by returning to the Registrar the completed Notice by email. If no response is received within 3 working days of the email, the member is deemed to have declined the appointment.
 

@@ -76,4 +76,4 @@ A person may inform the Court of a party’s death pursuant to Part 6, Rule 17(1
 >
 > (b) a translated copy of the death certificate (if the death certificate is not in the English language); and
 >
-> (c) the case numbers of all pending proceedings in which the deceased is a party
+> (c) the case numbers of all pending proceedings in which the deceased is a party.

@@ -38,7 +38,7 @@ he or she must do so by filing the Request for Attendance of the Bailiff in Form
 >
 > (b) a notice of seizure on the Singapore Land Authority; or
 >
-> (a) a notice of attachment on any financial institution or non-party;
+> (c) a notice of attachment on any financial institution or non-party;
 
 the bailiff may engage, or direct the enforcement applicant to engage, the services of any appropriate persons or service provider, including the enforcement applicant’s solicitors, to effect service of such notice of seizure or attachment.
 

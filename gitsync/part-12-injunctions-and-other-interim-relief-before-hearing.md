@@ -40,7 +40,7 @@
 
 When composing the electronic form for an injunction application (in Form 67A of Appendix A of these Practice Directions) through the Electronic Filing Service, Form 98 or Form 99 (as the case may be) shall be prepared in Portable Document Format (PDF) and attached to the electronic form.
 
-(2) The language and layout of Forms 98 and 99 of Appendix A of these Practice Directions are intended to make it easier for persons served with these orders to understand what they mean. These forms of orders should be used except to the extent that the Judge hearing a particular application considers there is a good reason for adopting a different form. Any departure from the terms of the prescribed forms should be justified by the applicant in his or her supporting affidavit(s).
+(2) The language and layout of Forms 98 and 99 are intended to make it easier for persons served with these orders to understand what they mean. These forms of orders should be used except to the extent that the Judge hearing a particular application considers there is a good reason for adopting a different form. Any departure from the terms of the prescribed forms should be justified by the applicant in his or her supporting affidavit(s).
 
 (3) The applicant should undertake not to inform any third party of the proceedings until after the return date.
 
@@ -90,7 +90,7 @@ the requestor shall immediately notify the ICA of the same (hereinafter referred
 
 (5) If the order referred to in sub-paragraph (3)(a) is varied pursuant to a further order such that further travel restrictions apply, the requestor shall immediately notify the ICA of the same, copying the other party, and provide a copy of the further order (in which event the requirements set out at sub-paragraphs (3)(a) and (b) would apply). The further notification to the ICA must be given at least 1 working day before the ICA is required to act on the further travel restrictions.
 
-(6) The notification to the ICA referred to in sub-paragraph (3)(a), provision of a copy of the extracted order referred to in sub-paragraph (3)(b) and the further notifications to the ICA referred to in sub-paragraphs (4) and (5) must be sent to the ICA via an email (which should not exceed 5MB in size) to the email address set out below (and copied to the other party or the party’s solicitors via email or ordinary mail, whichever applicable) **during the ICA’s working hours only**:
+(6) The notification to the ICA referred to in sub-paragraph (3)(a), provision of a copy of the extracted order referred to in sub-paragraph (3)(b) and the further notifications to the ICA referred to in sub-paragraphs (4) and (5) must be sent to the ICA via an email (which should not exceed 5MB in size) to the email address set out below (and copied to the other party or the party’s solicitors via email or ordinary mail, whichever applicable) during the ICA’s working hours only:
 
 ICA’s email address: ICA\_FJC\_Notification@ica.gov.sg
 

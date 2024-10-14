@@ -318,7 +318,7 @@ _**The affidavit by the successor deputy or deputies**_
 >
 > (c) any prospective beneficiary under P’s intestacy where P has no existing will; and
 >
-> (d) any done under a lasting power of attorney executed by P or any Court-appointed deputy of P.
+> (d) any donee under a lasting power of attorney executed by P or any Court-appointed deputy of P.
 
 (5) Once an order is made for a statutory will, the applicant must file a copy of the will for sealing by the Court. The statutory will is considered valid only with the seal of Court.
 

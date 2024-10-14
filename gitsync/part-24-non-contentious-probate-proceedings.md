@@ -52,7 +52,7 @@ _**Filing of originating application and supporting documents**_
 >
 > (b) where a Digital Death Certificate is not available, a certified true copy of the death certificate of the deceased or a certified true copy of the order of Court for presumption of death of the deceased;
 >
-> (c) where there is an original will, a certified true copy of the original Will that is certified on every page;
+> (c) where there is an original will (and / or codicil(s)), a certified true copy that is certified on every page. If there is insufficient space on any page to affix the certified true copy stamp that is normally used, such page(s) can be scanned to include a margin or space (on A4-equivalent softcopy) by scanning at a reduction ratio that is no less than 90%. If this is also not possible, the solicitor may file a copy of the will (and codicil(s), where applicable) with a cover page containing a certification that “This is a certified true copy of the will (and / or codicil(s)) of \[name of deceased] dated \[date], pages \[X] to \[Y].” provided that a request is made to the Registry, explaining why certification on every page is not possible, and such a request is approved by the Registry;
 >
 > (d) where the applicant is making an application under section 9 of the Probate and Administration Act 1934 for probate of a copy of the will, the certified true copy of the will is to contain the certification “This is a certified true copy of the will of \[name of deceased] dated \[date] admitted to proof pursuant to an order of court dated \[date of order] in \[case number in which the order was given].” on a covering page that is to be attached to the certified copy of the will;
 >
@@ -80,43 +80,43 @@ _**Filing of originating application and supporting documents**_
 
 (10) When the Court is satisfied that the originating application and the supporting documents have been properly filed and verified, a probate number will be issued in place of the provisional reference number. This probate number will be tied to the same electronic filing checklist.
 
-(11)     In the originating application without notice, the applicant is to specify where required:
+(11) In the originating application without notice, the applicant is to specify where required:
 
-**All applications**
+All applications
 
 > (a) the particulars of the deceased and the applicant;
 >
 > (b) in relation to the domicile of the deceased, the country (e.g. Singapore, Malaysia) and the state if state law applies to the distribution and administration of the estate (e.g. New York, New South Wales);
 
-**Applications for grants**
+Applications for grants
 
-(c) whether the application for a grant is filed within 6 months from the death of the deceased and if not, the reasons for the delay;
-
-(d) whether the applicant is or is not an undischarged bankrupt and the details of the order of Court granting the applicant who is an undischarged bankrupt permission to act as the personal representative of the estate;
-
-**Probate**
-
-(e) in an application for probate:
-
-> (i) whether the applicant is the sole executor or sole executrix (where there is one executor or executrix only named in the will) or one of the executors or executrices named in the will;
+> (c) whether the application for a grant is filed within 6 months from the death of the deceased and if not, the reasons for the delay;
 >
-> (ii) where there are executors other than the applicant named in the will, the status of the other executors (e.g. deceased, renounced, power reserved of making the like grant);
->
-> (iii)    where the applicant is applying for double probate, the details of the previous probate case granting probate to the other executor(s) named in the will with power being reserved of making the like grant to the applicant;
+> (d) whether the applicant is or is not an undischarged bankrupt and the details of the order of Court granting the applicant who is an undischarged bankrupt permission to act as the personal representative of the estate;
 
-**Administration**
+Probate
 
-(f) in an application for letters of administration:
+> (e) in an application for probate:
+>
+> > (i) whether the applicant is the sole executor or sole executrix (where there is one executor or executrix only named in the will) or one of the executors or executrices named in the will;
+> >
+> > (ii) where there are executors other than the applicant named in the will, the status of the other executors (e.g. deceased, renounced, power reserved of making the like grant);
+> >
+> > (iii)    where the applicant is applying for double probate, the details of the previous probate case granting probate to the other executor(s) named in the will with power being reserved of making the like grant to the applicant;
 
-> (i) in relation to nationality, the country;
->
-> (ii) the religion of the deceased, e.g. Christian, Buddhist, Hindu, Muslim (if a Muslim, specify the Mazhab to which he or she belonged);
->
-> (iii) in relation to marital status, whether the deceased was, e.g. married, a widower, a widow, a spinster or a bachelor;
->
-> (iv) the relationship of the applicant to the deceased (if any) and the capacity in which the applicant is making the application:
+Administration
 
-_Descriptions to be used for relationship and capacity where the applicant is a beneficiary of the estate_
+> (f) in an application for letters of administration:
+>
+> > (i) in relation to nationality, the country;
+> >
+> > (ii) the religion of the deceased, e.g. Christian, Buddhist, Hindu, Free Thinker, Muslim, (if a Muslim, specify the Mazhab (i.e. school of thought) to which he or she belonged);
+> >
+> > (iii) in relation to marital status, whether the deceased was, e.g. married, divorced, a widower, a widow, a spinster or a bachelor;
+> >
+> > (iv) the relationship of the applicant to the deceased (if any) and the capacity in which the applicant is making the application:
+> >
+> > _Descriptions to be used for relationship and capacity where the applicant is a beneficiary of the estate_
 
 | a widow                                             | “the lawful widow” or, if the deceased was of a religion allowing polygamy, “the only lawful widow” or “one of the lawful widows” as the case may be                                                                                                                                                                                                                                    |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -133,75 +133,75 @@ _Descriptions to be used for relationship and capacity where the applicant is a 
 | an illegitimate daughter                            | “one of the” or “the only” “natural daughter and a person entitled to take an interest in the estate of the deceased pursuant to section 10 of the Legitimacy Act 1934”                                                                                                                                                                                                                 |
 | where the deceased died domiciled outside Singapore | \[state relationship] and “the person entrusted with the administration of the estate by the court or authority having jurisdiction in matters of probate at the place where the deceased died domiciled” or “the person entitled to administer the estate by the law of the place where the deceased died domiciled” as the case may be                                                |
 
-_Descriptions for capacity where the applicant is not a beneficiary of the estate (to state the relationship of the applicant to the deceased as well (if any))_
+> > _Descriptions for capacity where the applicant is not a beneficiary of the estate (to state the relationship of the applicant to the deceased as well (if any))_
 
-<table data-header-hidden><thead><tr><th width="304"></th><th></th></tr></thead><tbody><tr><td>an attorney</td><td>“the duly constituted attorney of [one of the lawful children and next of kin of the deceased or as the case may be]”</td></tr><tr><td>a person whom the beneficiaries desire a grant to be made to</td><td>“the person whom the sole beneficiary of the estate consents to administration being granted to” or “the person whom the beneficiaries of the estate desire a grant to be made to”</td></tr><tr><td>a guardian of an infant beneficiary</td><td>“[the legal guardian or testamentary guardian] (as the case may be) of the lawful infant children and next of kin of the deceased”</td></tr><tr><td>a nominee of an infant beneficiary who has attained the age of 16 years</td><td>“the nominee of the lawful infant children and next of kin of the deceased”</td></tr><tr><td>a deputy or donee of a beneficiary who lacks mental capacity</td><td>“the deputy” or “the donee under a lasting power of attorney” of “the sole beneficiary of the estate” or “one of the beneficiaries of the estate” or “the professional deputy of the sole beneficiary of the estate” as the case may be</td></tr><tr><td>a person making an equitable or moral claim in relation to a bono vacantia estate</td><td>“a person making an equitable or moral claim under section 27 of the Civil Law Act 1909”</td></tr><tr><td>a creditor</td><td>“a creditor of the deceased”</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="333"></th><th></th></tr></thead><tbody><tr><td>an attorney</td><td>“the duly constituted attorney of [one of the lawful children and next of kin of the deceased or as the case may be]”</td></tr><tr><td>a person whom the beneficiaries desire a grant to be made to</td><td>“the person whom the sole beneficiary of the estate consents to administration being granted to” or “the person whom the beneficiaries of the estate desire a grant to be made to”</td></tr><tr><td>a guardian of an infant beneficiary</td><td>“[the legal guardian or testamentary guardian] (as the case may be) of the lawful infant children and next of kin of the deceased”</td></tr><tr><td>a nominee of an infant beneficiary who has attained the age of 16 years</td><td>“the nominee of the lawful infant children and next of kin of the deceased”</td></tr><tr><td>a deputy or donee of a beneficiary who lacks mental capacity</td><td>“the deputy” or “the donee under a lasting power of attorney” of “the sole beneficiary of the estate” or “one of the beneficiaries of the estate” or “the professional deputy of the sole beneficiary of the estate” as the case may be</td></tr><tr><td>a person making an equitable or moral claim in relation to a bono vacantia estate</td><td>“a person making an equitable or moral claim under section 27 of the Civil Law Act 1909”</td></tr><tr><td>a creditor</td><td>“a creditor of the deceased”</td></tr></tbody></table>
 
-> (v) the particulars of beneficiaries including the name, gender, age or date of birth and relationship to the deceased and whether there are beneficiaries who lack mental capacity within the meaning of the Mental Capacity Act 2008;
->
-> (vi) the particulars of spouse and other next of kin who are deceased, including the name, gender, date of death and relationship to the deceased;
->
-> (vii) particulars of person(s) with prior rights or equal rights to a grant, the manner of clearing off and the relevant date of clearing off (the clearance of equal rights being optional);
->
-> (viii) in relation to minor beneficiaries, whether there are minority interests and if so, the name and share entitlement of each minor beneficiary;
->
-> (ix) in relation to the particulars of co-administrators, the name of the proposed co-administrator, identification number, address, and relationship to the deceased, if any; and
->
-> (x) any other relevant information in support of the originating application;
+> > (v) the particulars of beneficiaries including the name, gender, age or date of birth and relationship to the deceased and whether there are beneficiaries who lack mental capacity within the meaning of the Mental Capacity Act 2008;
+> >
+> > (vi) the particulars of spouse and other next of kin who are deceased, including the name, gender, date of death and relationship to the deceased;
+> >
+> > (vii) particulars of person(s) with prior rights or equal rights to a grant, the manner of clearing off and the relevant date of clearing off (the clearance of equal rights being optional);
+> >
+> > (viii) in relation to minor beneficiaries, whether there are minority interests and if so, the name and share entitlement of each minor beneficiary;
+> >
+> > (ix) in relation to the particulars of co-administrators, the name of the proposed co-administrator, identification number, address, and relationship to the deceased, if any; and
+> >
+> > (x) any other relevant information in support of the originating application;
 
-**Administration with will**
+Administration with will
 
-(g) in an application for letters of administration with will annexed, in addition to sub-paragraph (f):
-
-> (i) whether the testator did not in the will name any executor, the executors named in the will have died, the executors named in the will have renounced probate and execution of the will, the testator did not in the will name any residuary legatee, or any other reason why an application for administration with will annexed is being made;
+> (g) in an application for letters of administration with will annexed, in addition to sub-paragraph (f):
 >
-> (ii) whether there are minority or life interests;
->
-> (iii) the relationship of the applicant to the deceased (if any) and the capacity in which the applicant is making the application:
-
-_Descriptions to be used for capacity for an application for administration with will_
+> > (i) whether the testator did not in the will name any executor, the executors named in the will have died, the executors named in the will have renounced probate and execution of the will, the testator did not in the will name any residuary legatee, or any other reason why an application for administration with will annexed is being made;
+> >
+> > (ii) whether there are minority or life interests;
+> >
+> > (iii) the relationship of the applicant to the deceased (if any) and the capacity in which the applicant is making the application:
+> >
+> > _Descriptions to be used for capacity for an application for administration with will_
 
 <table data-header-hidden><thead><tr><th width="291"></th><th></th></tr></thead><tbody><tr><td>the sole beneficiary named in the will</td><td>“the universal legatee named in the will”</td></tr><tr><td>the only residuary legatee named in the will</td><td>“the residuary legatee named in the will”</td></tr><tr><td>one of the residuary legatees named in the will</td><td>“one of the residuary legatees named in the will”</td></tr><tr><td>personal representative of a deceased universal or residuary legatee</td><td>“personal representative of the deceased universal legatee named in the will” or “personal representative of the residuary legatee named in the will” or “personal representative of one of the residuary legatees named in the will” as the case may be</td></tr><tr><td>beneficiaries under the will</td><td>“one of the beneficiaries named in the will”</td></tr><tr><td>a creditor</td><td>“a creditor of the deceased”</td></tr><tr><td>where there is a partial intestacy</td><td>“person entitled to the residue on intestacy” or “person entitled to part of the residue on intestacy”</td></tr></tbody></table>
 
-**Administration – unadministered estate**
+Administration – unadministered estate
 
-(h) in an application for letters of administration for an unadministered estate, in addition to sub-paragraph (f):
-
-> (i) the name, the capacity and date of death of the person(s) to whom probate or letters of administration of the estate of the deceased was / were granted to but who died leaving part of the estate unadministered;
+> (h) in an application for letters of administration for an unadministered estate, in addition to sub-paragraph (f):
 >
-> (ii) the previous probate case number, the date of the grant and the court which issued the grant;
+> > (i) the name, the capacity and date of death of the person(s) to whom probate or letters of administration of the estate of the deceased was / were granted to but who died leaving part of the estate unadministered;
+> >
+> > (ii) the previous probate case number, the date of the grant and the court which issued the grant;
 
-**Administration by a trust company**
+Administration by a trust company
 
-(i) in an application for probate or letters of administration by a trust company, in addition to sub-paragraph (e) or (f):
+> (i) in an application for probate or letters of administration by a trust company, in addition to sub-paragraph (e) or (f):
+>
+> > (i) the particulars of the applicant is to include the name, UEN, registered office address of the trust company and the name and identification number of the officer authorised to make the application and to sign documents on behalf of the trust company;
+> >
+> > (ii) that the applicant is a trust company licensed under the Trust Companies Act 2005 and that the applicant company by a resolution of their board of directors has authorised the officer to file the originating application and to make, swear and sign the affidavit in support of the originating application on their behalf;
+> >
+> > (iii) where the application is for letters of administration, the names, relationships and capacities of the beneficiaries who have authorised the applicant company to apply for letters of administration of the estate of the deceased;
 
-> (i) the particulars of the applicant is to include the name, UEN, registered office address of the trust company and the name and identification number of the officer authorised to make the application and to sign documents on behalf of the trust company;
->
-> (ii) that the applicant is a trust company licensed under the Trust Companies Act 2005 and that the applicant company by a resolution of their board of directors has authorised the officer to file the originating application and to make, swear and sign the affidavit in support of the originating application on their behalf;
->
-> (iii) where the application is for letters of administration, the names, relationships and capacities of the beneficiaries who have authorised the applicant company to apply for letters of administration of the estate of the deceased;
+Resealing in the Family Division
 
-**Resealing in the Family Division**
+> (j) in an application for resealing of a foreign grant in the Family Division:
+>
+> > (i) the particulars of the deceased;
+> >
+> > (ii) the particulars of the applicant, including the filing capacity;
+> >
+> > (iii) in the event that the applicant is an attorney, the details of power of attorney and that the power of attorney has been deposited in the Supreme Court under the provisions of section 48 of the Conveyancing and Law of Property Act 2005;
+> >
+> > (iv) the particulars of foreign grant and original grantee(s), including the nature of foreign grant, the description of the foreign grant, the court which issued the foreign grant, who are the original grantees and the date of the foreign grant;
+> >
+> > (v) whether the deceased resided or carried on business in Singapore within 12 months prior to his or her death;
+> >
+> > (vi) whether there are debts due from the estate of the deceased to creditors residing in Singapore;
+> >
+> > (vii) the particulars of the property of the deceased in Singapore;
 
-(j) in an application for resealing of a foreign grant in the Family Division:
+Double probate
 
-> (i) the particulars of the deceased;
->
-> (ii) the particulars of the applicant, including the filing capacity;
->
-> (iii) in the event that the applicant is an attorney, the details of power of attorney and that the power of attorney has been deposited in the Supreme Court under the provisions of section 48 of the Conveyancing and Law of Property Act 2005;
->
-> (iv) the particulars of foreign grant and original grantee(s), including the nature of foreign grant, the description of the foreign grant, the court which issued the foreign grant, who are the original grantees and the date of the foreign grant;
->
-> (v) whether the deceased resided or carried on business in Singapore within 12 months prior to his or her death;
->
-> (vi) whether there are debts due from the estate of the deceased to creditors residing in Singapore;
->
-> (vii) the particulars of the property of the deceased in Singapore;
-
-**Double probate**
-
-(k) in an application for probate by the remaining executors where there is more than one executor, the particulars of the earlier grant to the other executors including the date of the earlier grant, the names of the other executors who had been granted probate, the previous probate case number and that power was reserved of making the like grant to the applicant.
+> (k) in an application for probate by the remaining executors where there is more than one executor, the particulars of the earlier grant to the other executors including the date of the earlier grant, the names of the other executors who had been granted probate, the previous probate case number and that power was reserved of making the like grant to the applicant.
 
 _**Clearance of prior rights**_
 
@@ -379,15 +379,15 @@ _**Other requirements**_
 
 (8) For a non-contentious application for a grant, the notary issuing the certificate in relation to foreign law is to:
 
-> (a) state that he or she is not a person claiming to be entitled to the grant or his or        her attorney, or is the spouse of any such person or attorney;
+> (a) state that he or she is not a person claiming to be entitled to the grant or his or her attorney, or is the spouse of any such person or attorney;
 >
 > (b) state the foreign law which provides for a notary to issue certificates in relation to the administration and distribution of an estate in the place where the deceased died domiciled;
 >
-> (c) provide the certification in relation to the applicable issues listed sub-paragraph     (3), (4) or (5); and
+> (c) provide the certification in relation to the applicable issues listed sub-paragraph (3), (4) or (5); and
 >
 > (d) state the relevant provisions of foreign law on which the opinion is based.
 
-(9) If an application becomes contested, the applicant is expected to comply with all the         relevant guidelines in _Pacific Recreation_ in relation to an expert’s report on foreign law.
+(9) If an application becomes contested, the applicant is expected to comply with all the relevant guidelines in _Pacific Recreation_ in relation to an expert’s report on foreign law.
 
 ## 212. Filing of Schedule of Assets for estates where death occurs on or after 15 February 2008
 
@@ -403,7 +403,7 @@ _**Other requirements**_
 >
 > (b) If the property was held as a joint tenancy or if there is a joint account, the property should be included if the deceased was the last surviving joint owner (and this fact should also be stated). If the deceased was not the last surviving joint owner, the applicant is to state the reason why the property is being declared in the Schedule of Assets (e.g. the monies in the joint account belong to the estate and the remaining joint account holder holds the monies on trust for the estate).
 >
-> **Examples:**
+> Examples:
 >
 > > (i) Blk 123, XXX Street 1, #01-111, Singapore 123456 (held in the sole name of the deceased)
 > >
@@ -539,7 +539,7 @@ An applicant is not required to file a request to extract a grant.
 
 (4)       Where a grant of letters of administration has been issued, and an applicant seeks to remove one of the existing administrators or co-administrators, the applicant may file a non-contentious application for the relevant order by way of a summons for:
 
-> (a) the grant to the outgoing administrator or co-administrator to be revoked (i.e. a partial revocation);
+> (a) the grant to the outgoing administrator or co-administrator to be revoked (i.e. a partial revocation); and
 >
 > (b) amendment of the originating application, Schedule of Assets (if required) and grant to remove the outgoing administrator or co-administrator.
 

@@ -132,7 +132,7 @@ _**Use of the video conference facilities and the Mobile Infocomm Technology Fac
 >
 > (b) for any other dispute resolution process.
 
-(3) The Registrar may refuse any request for the use of any of the services described in this Part at any time owing to the unavailability of staff or equipment or for any other reason. The Registrar need not give any reasons for the refusal of such a request.
+(3) The Registrar may refuse any request for the use of any of the services described in this paragraph at any time owing to the unavailability of staff or equipment or for any other reason. The Registrar need not give any reasons for the refusal of such a request.
 
 _**Applications to use the video conference facilities and usage of additional equipment**_
 
@@ -162,7 +162,7 @@ _**Applications to use the Mobile Infocomm Technology Facilities**_
 
 ## 198. Citation of case numbers
 
-(1) All originating processes and summons filed in the Family Justice Courts on or after 1 October 2024 must bear case numbers in the following format:
+(1) All originating processes and summons filed in the Family Justice Courts on or after 15 October 2024 must bear case numbers in the following format:
 
 **Description of Court / Type of application \[Case number] / Year filed**
 
@@ -187,14 +187,12 @@ _**General correspondence**_
 
 (4) In addition, all letters should be captioned with the number of the case to which they relate and the names of the parties. For example:
 
-**FC/AD 1/2024**
-
+**FC/ OAD 1/2024** \
 **Between AB and CD**
 
 (5) If the letter relates to an interlocutory application, the reference number, hearing date and time of that application should be stated in the caption below the parties’ names. For example:
 
-**FC/SUM 1/2024**
-
+**FC/SUM 1/2024** \
 **CASE CONFERENCE ON 1 JANUARY 2024 at 2:30PM**
 
 (6) Compliance with the directions in this paragraph will facilitate the expeditious processing of the request.
@@ -277,7 +275,7 @@ whichever is earlier. This practice is to be followed for all fresh and adjourne
 
 _**Translation**_
 
-(18) Requests for translations of documents in Chinese, Malay or Tamil for use in proceedings in the Family Justice Courts should be sent using the form available at relevant counter at the Registry at least 6 weeks before the date the translations are required, unless there are exceptional reasons justifying non-compliance. Failure to comply with the directions set out in this sub-paragraph may result in translations not being available or provided by the date they are required.
+(18) Requests for translations of documents in Chinese, Malay or Tamil for use in proceedings in the Family Justice Courts should be sent using the form available at the relevant counter at the Registry at least 6 weeks before the date the translations are required, unless there are exceptional reasons justifying non-compliance. Failure to comply with the directions set out in this sub-paragraph may result in translations not being available or provided by the date they are required.
 
 (19) In the event that the Family Courts’ Interpreters Section is unable to accept a translation request, parties and solicitors should approach a private translation service instead.
 

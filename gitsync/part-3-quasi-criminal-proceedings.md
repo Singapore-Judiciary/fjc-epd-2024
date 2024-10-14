@@ -164,7 +164,7 @@ In Part 3, unless the context otherwise requires:
 >
 > Part 27
 
-(5) The following parts / paragraphs of these Practice Directions apply with necessary modifications (including the modification in sub-paragraph (xx6)) to Category 4 proceedings:
+(5) The following parts / paragraphs of these Practice Directions apply with necessary modifications (including the modification in sub-paragraph (6)) to Category 4 proceedings:
 
 > Part 1
 >
@@ -258,7 +258,7 @@ Where an appeal is to be filed under Part 19, Division 4 of the Family Justice (
 
 (1) Pursuant to section 26(9) of the Family Justice Act 2014, the Court may direct parties to attend mediation for maintenance matters or counselling for family violence matters to encourage and assist parties in reaching a resolution or to narrow the issues in contention.
 
-(2) Parties must personally attend and be prepared to discuss their cases during the mediation or the counselling session. Parties in maintenance proceedings should bring the documents set out at paragraph 35 of these Practice Directions to facilitate discussion during the mediation.
+(2) Parties must personally attend and be prepared to discuss their cases during the mediation or the counselling session. Parties in maintenance proceedings should bring the documents referred to at paragraph 35(3) of these Practice Directions to facilitate discussion during the mediation.
 
 (3) Mediation and counselling will be conducted on a without prejudice basis. All communications made in the course of these sessions will be treated in strict confidence and will not be admissible in any court. The mediation notes will therefore not be made available to the parties.
 

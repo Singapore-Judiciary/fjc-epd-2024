@@ -26,7 +26,7 @@ Unless otherwise provided in these Practice Directions,
 
 > (a) Parts 1 to 22 and 27 of these Practice Directions (collectively referred to as “Practice Directions (General)”) apply to all proceedings that are governed by the Family Justice (General) Rules 2024.
 >
-> (b) Parts 1, 23, 24, 25 and 27 of these Practice Directions (collectively referred to as “Practice Directions (Probate)”) apply to all of the following proceedings in the Family Justice Courts which are commenced on or after 1 October 2024, including appeals arising from those proceedings:
+> (b) Parts 1, 23, 24, 25 and 27 of these Practice Directions (collectively referred to as “Practice Directions (Probate)”) apply to all of the following proceedings in the Family Justice Courts which are commenced on or after 15 October 2024, including appeals arising from those proceedings:
 >
 > > (i) any civil proceedings under the Inheritance (Family Provision) Act 1966;
 > >
@@ -78,11 +78,11 @@ Unless otherwise provided in these Practice Directions,
 > >
 > > Part 27
 >
-> (e) The Family Justice Courts Practice Directions as in force immediately before 15 October 2024 continue to apply, on and after 15 October 2024, to all proceedings that are governed by the Family Justice Rules 2014
+> (e) The Family Justice Courts Practice Directions as in force immediately before 15 October 2024 continue to apply, on and after 15 October 2024, to all proceedings that are governed by the Family Justice Rules 2014.
 >
 > (f) To avoid doubt, the applications in Column 1 filed on and after 15 October 2024 relating to proceedings in Column 2 commenced before 15 October 2024 are to be filed in the manner set out in Column 3:
 
-<table data-full-width="false"><thead><tr><th>Column 1: Application to be filed</th><th>Column 2: Existing Court proceedings </th><th>Column 3: Manner of filing</th></tr></thead><tbody><tr><td>Variation, rescission, setting aside of final orders</td><td><ul><li>Guardianship of Infants Act 1934</li><li>Section 17(1)(d) of Supreme Court of Judicature Act 1969</li><li>Part 10 of Women’s Charter 1961</li><li>International Child Abduction Act 2010</li><li>Section 17A(2) of Supreme Court of Judicature Act 1969</li><li>Mental Capacity Act 2008</li><li>Status of Children (Assisted Reproduction Technology) Act 2013</li><li>Voluntary Sterilization Act 1974</li><li> Adoption of Children Act 1939</li></ul></td><td>Originating application</td></tr><tr><td>Enforcement of child access orders (whether final or interim orders)</td><td><ul><li>Guardianship of Infants Act 1934</li><li>Part 10 of Women’s Charter 1961</li></ul></td><td>Originating application</td></tr><tr><td>Enforcement of orders (whether final or interim orders) other than child access orders. This includes committal applications.</td><td><ul><li>Guardianship of Infants Act 1934</li><li>Section 17(1)(d) of Supreme Court of Judicature Act 1969</li><li>Part 10 of Women’s Charter 1961</li><li>International Child Abduction Act 2010</li><li>Section 17A(2) of Supreme Court of Judicature Act 1969</li><li>Mental Capacity Act 2008</li><li>Status of Children (Assisted Reproduction Technology) Act 2013</li><li>Voluntary Sterilization Act 1974</li><li>Adoption of Children Act 1939</li></ul></td><td>Summons in existing Court proceedings</td></tr><tr><td><p>Applications under Section 11A of Family Justice Act 2014. This includes:</p><p>(i) applications for section 11A orders;</p><p>(ii) applications to amend, vary, discharge section 11A orders; and</p><p>(iii) applications to lift section 11A orders</p></td><td><ul><li>Guardianship of Infants Act 1934</li><li>Section 17(1)(d) of Supreme Court of Judicature Act 1969</li><li>Part 10 of Women’s Charter 1961</li><li>International Child Abduction Act 2010</li><li>Section 17A(2) of Supreme Court of Judicature Act 1969</li><li>Mental Capacity Act 2008</li><li>Status of Children (Assisted Reproduction Technology) Act 2013</li><li>Voluntary Sterilization Act 1974</li><li>Adoption of Children Act 1939</li></ul></td><td>Summons in existing Court proceedings</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Column 1: Application to be filed</th><th>Column 2: Existing Court proceedings </th><th>Column 3: Manner of filing</th></tr></thead><tbody><tr><td>Variation, rescission, setting aside of final orders</td><td><ul><li>Guardianship of Infants Act 1934</li><li>Section 17(1)(d) of Supreme Court of Judicature Act 1969</li><li>Part 10 of Women’s Charter 1961</li><li>International Child Abduction Act 2010</li><li>Section 17A(2) of Supreme Court of Judicature Act 1969</li><li>Mental Capacity Act 2008</li><li>Status of Children (Assisted Reproduction Technology) Act 2013</li><li>Voluntary Sterilization Act 1974</li><li>Adoption of Children Act 1939</li></ul></td><td>Originating application</td></tr><tr><td>Enforcement of child access orders (whether final or interim orders)</td><td><ul><li>Guardianship of Infants Act 1934</li><li>Part 10 of Women’s Charter 1961</li></ul></td><td>Originating application</td></tr><tr><td>Enforcement of orders (whether final or interim orders) other than child access orders. This includes committal applications.</td><td><ul><li>Guardianship of Infants Act 1934</li><li>Section 17(1)(d) of Supreme Court of Judicature Act 1969</li><li>Part 10 of Women’s Charter 1961</li><li>International Child Abduction Act 2010</li><li>Section 17A(2) of Supreme Court of Judicature Act 1969</li><li>Mental Capacity Act 2008</li><li>Status of Children (Assisted Reproduction Technology) Act 2013</li><li>Voluntary Sterilization Act 1974</li><li>Adoption of Children Act 1939</li></ul></td><td>Summons in existing Court proceedings</td></tr><tr><td><p>Applications under Section 11A of Family Justice Act 2014. This includes:</p><p>(i) applications for section 11A orders;</p><p>(ii) applications to amend, vary, discharge section 11A orders; and</p><p>(iii) applications to lift section 11A orders</p></td><td><ul><li>Guardianship of Infants Act 1934</li><li>Section 17(1)(d) of Supreme Court of Judicature Act 1969</li><li>Part 10 of Women’s Charter 1961</li><li>International Child Abduction Act 2010</li><li>Section 17A(2) of Supreme Court of Judicature Act 1969</li><li>Mental Capacity Act 2008</li><li>Status of Children (Assisted Reproduction Technology) Act 2013</li><li>Voluntary Sterilization Act 1974</li><li>Adoption of Children Act 1939</li></ul></td><td>Summons in existing Court proceedings</td></tr></tbody></table>
 
 ## 3. Definitions <a href="#id-2-calculation-of-time" id="id-2-calculation-of-time"></a>
 
@@ -110,9 +110,9 @@ In these Practice Directions, unless the context otherwise requires:
 >
 > (g) “P” means a person who lacks or is alleged to lack capacity (within the meaning given by the Mental Capacity Act 2008) and to whom any proceedings under that Act relate;
 >
-> (h)“Registrar” means the Registrar of the Family Justice Courts; and
+> (h) “Registrar” means the Registrar of the Family Justice Courts; and
 >
-> (i) “Registry” means the Registry of the Family Justice Courts.     &#x20;
+> (i) “Registry” means the Registry of the Family Justice Courts.&#x20;
 
 ## 4. References to written laws <a href="#id-2-calculation-of-time" id="id-2-calculation-of-time"></a>
 
@@ -122,15 +122,15 @@ In these Practice Directions, unless the context otherwise requires:
 >
 > (b) Any reference to “Rules of Court 2021” or “ROC 2021” is a reference to the Rules of Court 2021 (G.N. No. S 914/2021) as in force on or after 1 April 2022.
 >
-> (c) any reference to “Family Justice Rules 2014” is a reference to the Family Justice Rules 2014 (G.N. No. S 813/2014) as in force immediately before 1 October 2024;
+> (c) any reference to “Family Justice Rules 2014” is a reference to the Family Justice Rules 2014 (G.N. No. S 813/2014) as in force immediately before 15 October 2024;
 >
-> (d) any reference to “Family Justice (General) Rules 2024” or “FJ(G)R” is a reference to the Family Justice (General) Rules 2024 (G.N. No. S xxx/2024) as in force on or after 15 October 2024;
+> (d) any reference to “Family Justice (General) Rules 2024” or “FJ(G)R” is a reference to the Family Justice (General) Rules 2024 (G.N. No. S 720/2024) as in force on or after 15 October 2024;
 >
-> (e) any reference to “Family Justice (Probate and Other Matters) Rules 2024” or “FJ(P)R” is a reference to the Family Justice (Probate and Other Matters) Rules 2024 (G.N. No. S xxx/2024) as in force on or after 1 October 2024;
+> (e) any reference to “Family Justice (Probate and Other Matters) Rules 2024” or “FJ(P)R” is a reference to the Family Justice (Probate and Other Matters) Rules 2024 (G.N. No. S 723/2024) as in force on or after 15 October 2024;
 >
-> (f) any reference to “Family Justice (Criminal Proceedings in Youth Courts) Rules 2024” or “FJ(CP)R” is a reference to the Family Justice (Criminal Proceedings in Youth Courts) Rules 2024 (G.N. No. S xxx/2024) as in force on or after 15 October 2024;
+> (f) any reference to “Family Justice (Criminal Proceedings in Youth Courts) Rules 2024” or “FJ(CP)R” is a reference to the Family Justice (Criminal Proceedings in Youth Courts) Rules 2024 (G.N. No. S 725/2024) as in force on or after 15 October 2024;
 >
-> (g) any reference to “Family Justice (Protection from Harassment) Rules 2024” or “FJ(PH)R” is a reference to the Family Justice (Protection from Harassment) Rules 2024 (G.N. No. S xxx/2024) as in force on or after 15 October 2024;
+> (g) any reference to “Family Justice (Protection from Harassment) Rules 2024” or “FJ(PH)R” is a reference to the Family Justice (Protection from Harassment) Rules 2024 (G.N. No. S 721/2024) as in force on or after 15 October 2024;
 >
 > (h) where any legislation is cited in these Practice Directions, the citation is to be read as referring to the version of that legislation currently in force.
 

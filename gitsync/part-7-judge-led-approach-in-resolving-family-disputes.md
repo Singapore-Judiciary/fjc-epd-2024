@@ -24,11 +24,11 @@
 >
 > 87\. Confidentiality
 >
-> 7C: Guidance on Direct Judicial Communications
+> **7C: Guidance on Direct Judicial Communications**
 >
 > 88\. Guidance on direct judicial communications in international family proceedings affecting children
 >
-> 7D: Amendment of Documents
+> **7D: Amendment of Documents**
 >
 > 89\. Amendment of originating application for adoption of child
 >
@@ -136,8 +136,6 @@ _**Communications with Court**_
 > >
 > > (iii) there is any other sufficient reason to transfer the proceedings;
 >
-> (h) the necessity (if any) to transfer the proceedings to the Family Division of the High Court for hearing and determination. In determining whether to transfer the case to the Family Division of the High Court, the Family Court will take into account whether:
->
 > (i) the value of the property in question or matrimonial assets. Generally, in a non-probate case where the property in question or matrimonial assets are asserted by any party to the proceedings to be worth a gross value of S$5 million or more, the matter will be transferred to the Family Division of the High Court for hearing and determination;
 >
 > (j) the number of days required for the hearing and the fixing of hearing dates; and
@@ -158,7 +156,7 @@ _**Communications with Court**_
 
 (3) The types of mediation and / or counselling which the Court may direct are as follows:
 
-<table><thead><tr><th width="68"></th><th>Type of mediation / counselling</th><th>Criteria</th><th>Who conducts the mediation / counselling?</th><th>For more details, refer to:</th></tr></thead><tbody><tr><td>1.</td><td><p>Mandatory counselling and mediation pursuant to section 139I of the Women’s Charter 1961</p><p> </p></td><td>Divorcing parties with at least one child below the age of 21 years</td><td>Family Justice Courts</td><td>Paragraphs 82, 83 and 85</td></tr><tr><td>2.</td><td>Court-ordered private mediation</td><td><p>(a)   Proceedings (including divorce proceedings and applications pursuant to section 121B of the Women’s Charter 1961) where:</p><p>(i)     there is a contested issue relating to assets where the gross value of all known assets is S$2 million or above; and</p><p>(ii)  there are no contested child issues (i.e. disputes relating to the custody, care and control of and / or access to any child)</p><p> </p><p>(b)   Applications under the International Child Abduction Act 2010</p><p> </p></td><td>Private mediator</td><td>Paragraph 84</td></tr><tr><td>3.</td><td>All other Court-conducted mediations</td><td><p>All other proceedings, as directed by the Court</p><p> </p></td><td>Family Justice Courts</td><td>Paragraph 83</td></tr><tr><td>4.</td><td>Court-ordered counselling (excluding mandatory counselling pursuant to section 139I of the Women’s Charter 1961)</td><td>As directed by the Court</td><td>Family Justice Courts</td><td>Paragraph 85</td></tr></tbody></table>
+<table><thead><tr><th width="65"></th><th>Type of mediation / counselling</th><th>Criteria</th><th>Who conducts the mediation / counselling?</th><th>For more details, refer to:</th></tr></thead><tbody><tr><td>1.</td><td><p>Mandatory counselling and mediation pursuant to section 139I of the Women’s Charter 1961</p><p> </p></td><td>Divorcing parties with at least one child below the age of 21 years</td><td>Family Justice Courts</td><td>Paragraphs 82, 83 and 85</td></tr><tr><td>2.</td><td>Court-ordered private mediation</td><td><p>(a) Proceedings (including divorce proceedings and applications pursuant to section 121B of the Women’s Charter 1961) where:</p><p> </p><p>(i) there is a contested issue relating to assets where the gross value of all known assets is S$2 million or above; and</p><p> </p><p>(ii) there are no contested child issues (i.e. disputes relating to the custody, care and control of and / or access to any child)</p><p> </p><p>(b) Applications under the International Child Abduction Act 2010</p><p> </p></td><td>Private mediator</td><td>Paragraph 84</td></tr><tr><td>3.</td><td>All other Court-conducted mediations</td><td>All other proceedings, as directed by the Court</td><td>Family Justice Courts</td><td>Paragraph 83</td></tr><tr><td>4.</td><td>Court-ordered counselling (excluding mandatory counselling pursuant to section 139I of the Women’s Charter 1961)</td><td>As directed by the Court</td><td>Family Justice Courts</td><td>Paragraph 85</td></tr></tbody></table>
 
 ## 82. Mandatory counselling and mediation
 
@@ -200,9 +198,9 @@ _**Communications with Court**_
 
 (2) The Registrar or the Judge may order that parties in proceedings which meet the criteria in paragraph 81(3)(2) attend private mediation conducted, at parties’ election, by the Singapore Mediation Centre or the Law Society Mediation Scheme (collectively referred to as “Assigned Private Mediator(s)”), unless parties have agreed upon a mediator (“Agreed Private Mediator”). The Registrar or the Judge may also make any orders necessary, including any orders relating to the choice of mediator (if parties are unable to agree) and pertaining to the payment for the mediation and its related fees.
 
-(3) **For mediations conducted by the Assigned Private Mediator(s)**, the parties and / or solicitors shall provide the Registrar or the Judge with the necessary information for the Assigned Private Mediator(s) to contact them to arrange for the mediation. The Registrar or the Judge will give directions and timelines for parties to agree on a mediation date and to exchange case information, documents and mediation briefs. The Registrar or the Judge will fix a return date for parties and / or solicitors to update the Court on the outcome of the private mediation.
+(3) For mediations conducted by the Assigned Private Mediator(s), the parties and / or solicitors shall provide the Registrar or the Judge with the necessary information for the Assigned Private Mediator(s) to contact them to arrange for the mediation. The Registrar or the Judge will give directions and timelines for parties to agree on a mediation date and to exchange case information, documents and mediation briefs. The Registrar or the Judge will fix a return date for parties and / or solicitors to update the Court on the outcome of the private mediation.
 
-(4) **For mediations conducted by the Agreed Private Mediator(s)**, the parties or their solicitors shall inform the Registrar or the Judge of the identity of their Agreed Private Mediator(s), the management of the mediation and the agreed date for mediation. The Registrar or Judge may make any order necessary for the timely and efficacious disposal of the case, including fixing return dates for the parties or their solicitors to update the Court, and / or re-directing the case to the Assigned Private Mediator(s).
+(4) For mediations conducted by the Agreed Private Mediator(s), the parties or their solicitors shall inform the Registrar or the Judge of the identity of their Agreed Private Mediator(s), the management of the mediation and the agreed date for mediation. The Registrar or Judge may make any order necessary for the timely and efficacious disposal of the case, including fixing return dates for the parties or their solicitors to update the Court, and / or re-directing the case to the Assigned Private Mediator(s).
 
 (5) Parties and their solicitors (if any) must personally attend all mediation sessions, unless otherwise stated by the private mediator.
 
@@ -281,8 +279,8 @@ _**Preliminary Conference**_
 > (b) parties’ Joint Statement for FNE in Form 83-AC of Appendix A of these Practice Directions or any other joint summary, at least 3 working days before the FNE session; and
 >
 > (c) parties’ respective written submissions including case authorities.
-
-All parties’ statements, summaries, documents, and submissions for FNE are to be sent by email to the FDR Email Address and are not to be filed in the IELS.
+>
+> All parties’ statements, summaries, documents, and submissions for FNE are to be sent by email to the FDR Email Address and are not to be filed in the Electronic Filing Service.
 
 (9) At any stage of the FNE process, the Evaluator shall have the discretion to decline the conduct of FNE for a case in respect of any or all of its referred financial issues if the Evaluator is of the view that the case and / or the issue(s) are not suitable or have become unsuitable for FNE.
 
@@ -338,7 +336,7 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 {% endtab %}
 {% endtabs %}
 
-_**Introduction**_&#x20;
+_**Introduction**_
 
 (1) This Practice Direction is issued to assist judges and solicitors dealing with family proceedings affecting children in which direct judicial communications may be beneficial. It is not intended to change the current rules or procedure or to affect the substantive rights of the parties, but is simply intended to facilitate cooperation in international cases, where appropriate.
 
@@ -478,9 +476,9 @@ _**Oral communications**_
 
 (40) Subject to the agreement of both judges involved in the oral communications:
 
-(a) such oral communications may be conducted in the presence of the parties or their representatives by way of video conference or by conference telephone call;
-
-(b) the parties or their representatives may be permitted to speak during the communication, but if one party or representative wishes to speak, then the other party or representative should be permitted a chance to answer.
+> (a) such oral communications may be conducted in the presence of the parties or their representatives by way of video conference or by conference telephone call;
+>
+> (b) the parties or their representatives may be permitted to speak during the communication, but if one party or representative wishes to speak, then the other party or representative should be permitted a chance to answer.
 
 _**Post communications**_
 
@@ -490,7 +488,7 @@ _**Post communications**_
 
 _**Keeping Central Authority informed of judicial communications**_
 
-(43)     Where appropriate, the judge engaged in direct judicial communications may consider informing his or her Central Authority that a judicial communication will take place
+(43)     Where appropriate, the judge engaged in direct judicial communications may consider informing his or her Central Authority that a judicial communication will take place.
 
 ## 7D: Amendment of Documents
 
@@ -528,13 +526,13 @@ _**General requirements for amendment of any document**_
 
 _**Other requirements for amendment of documents (except Court orders which are composed online through the Electronic Filing Service)**_
 
-(7)        The changes made in the document from the latest version of the document filed in Court should be indicated in the following way:
+(7) The changes made in the document from the latest version of the document filed in Court should be indicated in the following way:
 
 > (a) deletions shall be made by drawing a single line across the words to be deleted; and
 >
 > (b) insertions must be underlined.
 
-**Colour scheme for amendments**
+Colour scheme for amendments
 
 (8) In addition, the following colours shall be used to indicate the history of the amendments in the specified documents:
 
@@ -548,13 +546,13 @@ _**Other requirements for amendment of documents (except Court orders which are 
 >
 > (e) brown for subsequent rounds of amendments.
 
-**Amendment for third time or more**
+Amendment for third time or more
 
 (9) From the _third_ round of amendments onwards, the amended specified document should comprise two versions of the document, i.e.:
 
 > (a) a clean version without the amendments shown; followed in the same document by
 >
-> (b) a version showing the amendments in colour
+> (b) a version showing the amendments in colour.
 
 (10) Only one amended document consisting of these two versions is required to be filed.
 

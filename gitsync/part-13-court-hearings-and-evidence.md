@@ -124,7 +124,7 @@
 
 (1) The duties of the Duty Registrar are to:
 
-> (a) hear applications without notice or by consent (except probate matters) provided that the summons has been filed in the Electronic Filing System;
+> (a) hear applications without notice or by consent provided that the application has been filed in the Electronic Filing Service;
 >
 > (b) grant approval for any matter pertaining to the administration of the Registry, including giving early or urgent dates and allowing inspection of files;
 >
@@ -176,7 +176,7 @@ _**Attendance before the Duty Registrar by video conferencing**_
 
 (11) A solicitor or a litigant who is not legally represented (collectively, “parties”) who wishes to attend before a Duty Registrar by way of video conferencing must:
 
-> (a) email the Registry at [FJC\_FAMILY\_REGISTRY@judiciary.gov.sg](mailto:FJC\_FAMILY\_REGISTRY@judiciary.gov.sg) (for matters filed through the IELS such as injunctions, extension of time, amendment to pleadings etc.) or [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC\_MAINTPOS@judiciary.gov.sg) (for maintenance and personal protection matters under the Women’s Charter 1961, the Maintenance Orders (Reciprocal Enforcement) Act 1975 or the Vulnerable Adults Act 2018); or
+> (a) email the Registry at [FJC\_FAMILY\_REGISTRY@judiciary.gov.sg](mailto:FJC\_FAMILY\_REGISTRY@judiciary.gov.sg) (for matters filed through the IELS such as injunctions, extension of time etc.) or [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC\_MAINTPOS@judiciary.gov.sg) (for maintenance and personal protection matters under the Women’s Charter 1961, the Maintenance Orders (Reciprocal Enforcement) Act 1975 or the Vulnerable Adults Act 2018); or
 >
 > &#x20;(b) file a letter of request via the Electronic Filing Service.
 
@@ -188,7 +188,7 @@ _**Attendance before the Duty Registrar by video conferencing**_
 >
 > (c) explain briefly the nature of the application and directions sought from the Duty Registrar;
 >
-> (d) the time and date that parties wish to attend before Duty Registrar;
+> (d) the time and date that parties wish to attend before the Duty Registrar;
 >
 > (e) whether parties wish to send in any documents via the Electronic Filing Service ahead of the hearing or during the hearing before the Duty Registrar;
 >
@@ -706,7 +706,7 @@ _**General requirements as regards documents filed for use in Court**_
 >
 > (d) To avoid doubt, this sub-paragraph does not apply where:
 >
-> > (i) a document is filed, and the fees payable pursuant to the Third Schedule to the Family Justice (General) Rules 2024 are paid, through the Electronic Filing System; and
+> > (i) a document is filed, and the fees payable pursuant to the Third Schedule to the Family Justice (General) Rules 2024 are paid, through the Electronic Filing Service; and
 > >
 > > (ii) the party chooses to tender hard copy of the document to the Registry.
 
@@ -716,9 +716,9 @@ _**Bundle of authorities**_
 
 (6) Bundles of authorities may be filed, served, delivered or otherwise conveyed using the Electronic Filing Service. A party may also choose not to file the bundle of authorities into the electronic case file and instead submit a hard copy of the bundle of authorities for hearings according to the directions in this Part.
 
-(7) The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. The hard copy of the bundle of authorities may be printed on one side or both sides of each page. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
+(7) The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. The hard copy of the bundle of authorities should be printed on both sides of each page where possible. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
 
-(8) Solicitors must adhere to the following directions when preparing bundles of authorities for use in Court. These requirements also apply to paragraphs 125, 127, 146 and 149 of these Practice Directions:
+(8) Solicitors must adhere to the following directions when preparing bundles of authorities for use in Court:
 
 > (a) The bundle of authorities must contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on.
 >
@@ -736,11 +736,11 @@ _**Bundle of authorities**_
 >
 > _PEX International Pte Ltd v Lim Seng Chye and Anor_ \[2021] 1 SLR 631
 >
-> **Relevance**: The foreseeability of the risk of harm is not generally necessary to mount a successful action in the tort of private nuisance but foreseeability of the type of harm is relevant.
+> Relevance: The foreseeability of the risk of harm is not generally necessary to mount a successful action in the tort of private nuisance but foreseeability of the type of harm is relevant.
 >
 > _Denka Advantech Pte Ltd and Anor v Seraya Energy Pte Ltd and Anor_ \[2020] 1 SLR 373
 >
-> **Relevance**: The rule against penalties in Singapore remains focussed on whether the clause in question provides a genuine pre-estimate of the likely loss at the time of contracting, and its only legitimate interest is that of compensation.
+> Relevance: The rule against penalties in Singapore remains focussed on whether the clause in question provides a genuine pre-estimate of the likely loss at the time of contracting, and its only legitimate interest is that of compensation.
 >
 > (f) The bundle of authorities must be properly bound with plastic ring binding or plastic spine thermal binding. The rings or spines should be red for applicants / appellants and blue for respondents with a transparent plastic cover in front and at the back.
 >
@@ -764,7 +764,7 @@ _**Bundle of authorities**_
 
 ## 125. Hearings in chambers
 
-(1) In all hearings in chambers before a Judge or Registrar, solicitors must submit their own bundles of documents (where necessary) and bundle of authorities. The requirements of paragraphs 18 and 124(5) to (11) of these Practice Directions must, with the necessary modifications, be complied with in this regard. Except where paragraph 127(2) of these Practice Directions applies, the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
+(1) In all hearings in chambers before a Judge or Registrar, solicitors must submit their own bundles of documents (where necessary) and bundle of authorities. The requirements of paragraphs 18(6) to (14) and 124(5) to (11) of these Practice Directions must, with the necessary modifications, be complied with in this regard. Except where paragraph 127(2) of these Practice Directions applies, the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
 
 (2) The party using a hard copy of the bundle of authorities for the hearing must, if directed by the Court, file the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service at least 1 clear day in advance of the hearing. In the event that it is not possible for the party to do so, he or she must explain to the Judge or Registrar conducting the hearing why it was not possible for him or her to do so and must also undertake to file the list of authorities using the Electronic Filing Service by the next working day after the hearing.
 
@@ -990,7 +990,7 @@ _**Request for Registrar to produce document or Court’s records**_
 >
 > For example:
 >
-> “Respondent: Tan Ah Kow: 4th: 15.4.2013: AM hearing”; and “Respondent: Tan Ah Kow: 4th: 15.4.2013: SUM hearing: SUM no. 1234 of 2013".
+> “Respondent: Tan Ah Kow: 4th: 15.4.2024: AM hearing”; and “Respondent: Tan Ah Kow: 4th: 15.4.2024: SUM hearing: SUM no. 1234 of 2024".
 
 (6) Every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 136(3).
 

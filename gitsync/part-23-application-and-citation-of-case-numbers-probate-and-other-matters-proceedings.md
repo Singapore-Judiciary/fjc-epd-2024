@@ -108,7 +108,7 @@ Pursuant to Part 1, Rule 2(3) of the Family Justice (Probate and Other Matters) 
 
 ## 206. Citation of case numbers
 
-(1) All originating processes and summons filed in the Family Justice Courts under the Family Justice (Probate and Other Matters) Rules 2024 on or after 1 October 2024 must bear case numbers in the following format:
+(1) All originating processes and summons filed in the Family Justice Courts under the Family Justice (Probate and Other Matters) Rules 2024 on or after 15 October 2024 must bear case numbers in the following format:
 
 **Description of Court / Type of application \[Case number] / Year filed**
 

@@ -38,7 +38,7 @@ In Part 25:
 
 (3) The parties and their solicitors are obliged to cooperate with, and assist, the Court in achieving the overarching purpose and, in particular, in identifying the real issues in dispute as early as possible and in dealing with those issues efficiently.
 
-(4) Case conferences will be fixed for all originating claims and contentious originating applications filed in the Family Justice Courts. At the case conference, in addition to the matters set out in Part 2, Rule 6 of theFamily Justice (Probate and Other Matters) Rules 2024, the matters to be considered may include the following, where applicable:
+(4) Case conferences will be fixed for all originating claims and contentious originating applications filed in the Family Justice Courts. At the case conference, in addition to the matters set out in Part 2, Rule 6 of the Family Justice (Probate and Other Matters) Rules 2024, the matters to be considered may include the following, where applicable:
 
 > (a) the parties’ cases and causes of action;
 >
@@ -322,18 +322,18 @@ _**Use of presentation slides for all proceedings before the Family Division of 
 
 (18) Subject to approval by the Court, parties may utilise presentation slides to assist in oral submissions before the Court. Presentation slides may be projected in the courtroom or hearing chambers when oral submissions are made. Presentation slides must comply with the following standards:
 
-**Typeface**
+Typeface
 
 > (a) A clear typeface such as Arial or Times New Roman must be used; care should be taken to ensure that the font used is of at least a size equivalent to Arial font size 32. Bold and italicised fonts should be used sparingly.
 
-**Colours**
+Colours
 
 > (b) There should be sufficient contrast between the slide background and text: it is preferable to use black or dark fonts with a light background. The colours used in slide backgrounds should be muted and preferably monochromatic.
 
-**Animation and sounds**
+Animation and sounds
 
 > (c) Animation of slides or elements within a slide should be avoided; similarly, sounds should not be incorporated in the presentation slides unless they are necessary.
 
-**Corporate logos**
+Corporate logos
 
 > (d) Corporate logos of the law practice may be displayed on the presentation slides. Care should be taken to ensure that the size and location of corporate logos do not distract from the substance of the presentation slides.

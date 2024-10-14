@@ -28,4 +28,4 @@
 * [PART 25: CONTENTIOUS PROCEEDINGS UNDER THE FAMILY JUSTICE (PROBATE AND OTHER MATTERS) RULES 2024](part-25-contentious-proceedings-under-the-family-justice-probate-and-other-matters-rules-2024.md)
 * [PART 26: YOUTH COURTS](part-26-youth-courts.md)
 * [PART 27: APPLICABILITY OF COURT FORMS](part-27-applicability-of-court-forms.md)
-* [Appendices](appendices.md)
+* [APPENDICES](appendices.md)

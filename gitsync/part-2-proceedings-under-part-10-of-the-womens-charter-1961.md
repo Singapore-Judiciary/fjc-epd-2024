@@ -86,7 +86,7 @@ To consent to divorce on the ground of 3-year separation, a party should either:
 
 ## 15. Simplified hearing track for divorce / judicial separation proceedings <a href="#id-3-documents-to-be-filed-at-the-registry-of-the-family-justice-courts" id="id-3-documents-to-be-filed-at-the-registry-of-the-family-justice-courts"></a>
 
-(1)       The simplified hearing track provided for in Part 2, Rule 8 of the Family Justice (General) Rules 2024 is available where the parties have reached an agreement on:
+(1) The simplified hearing track provided for in Part 2, Rule 8 of the Family Justice (General) Rules 2024 is available where the parties have reached an agreement on:
 
 > (a) the divorce / judicial separation only;
 >
@@ -298,7 +298,7 @@ _**Opening statements**_
 > >
 > > (iii) the print of every page must be double spaced;
 > >
-> > (iv) each page may be printed on one side or both sides; and
+> > (iv) the hard copy should be printed on both sides of each page where possible; and
 > >
 > > (v) every page must have a margin on all 4 sides, each of at least 35 mm in width.
 >
@@ -374,7 +374,7 @@ _**Completing the binding summary**_
 
 _**Use of Core Document Bundle with the binding summary**_
 
-&#x20;(8) Parties shall prepare a Core Document Bundle in Form 18 of Appendix A of these Practice Directions, containing key documents which he or she intends to rely on for the hearing.
+(8) Parties shall prepare a Core Document Bundle in Form 18 of Appendix A of these Practice Directions, containing key documents which he or she intends to rely on for the hearing.
 
 (9) The Core Document Bundle must only contain documents which are included in the filed affidavits. The content page of the Core Document Bundle should identify the source of each document in the Core Document Bundle by providing the corresponding reference in the filed affidavits.
 
@@ -404,7 +404,7 @@ _**Use of Core Document Bundle with the binding summary**_
 >
 > (c) give particulars of the registered owner or owners of the land and, if there is more than one owner, the manner in which the land is held, whether as joint tenants or tenants‑in‑common.
 
-(3)       The affidavit or affidavits filed in respect of proceedings for an avoidance of disposition, and any application filed to commence such proceedings, must be served on the following persons and on the party defending the proceedings:
+(3) The affidavit or affidavits filed in respect of proceedings for an avoidance of disposition, and any application filed to commence such proceedings, must be served on the following persons and on the party defending the proceedings:
 
 > (a) the person in whose favour the disposition is alleged to have been made, and any mortgagee of whom particulars are given pursuant to sub-paragraph (2); and
 >

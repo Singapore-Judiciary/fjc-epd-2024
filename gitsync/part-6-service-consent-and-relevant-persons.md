@@ -30,11 +30,11 @@
 
 (1) Solicitors are required to notify the Registry of the particulars of their employees who have been authorised by them to serve processes and documents (“authorised process servers”) by submitting a request to authorise user through the Electronic Filing Service. Where such authorised process servers are no longer so authorised, solicitors are to revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Solicitors’ employees do not require the authorisation of the Registrar to effect personal service of processes and documents.&#x20;
 
-(2) As personal service can be effected by a solicitor, a solicitor’s employee, a litigant who is not legally represented or such a person’s employee, Court process servers will not be assigned to effect personal service of originating processes and documents unless there are special reasons. &#x20;
+(2) As personal service can be effected by a solicitor, a solicitor’s employee, a litigant who is not legally represented or such a person’s employee, Court process servers will not be assigned to effect personal service of originating processes and documents unless there are special reasons.
 
 (3) If there are special reasons requiring personal service by a Court process server, a request for such service must be filed through the Electronic Filing Service, setting out the special reasons. The approval of the Duty Registrar must be obtained for such service. Once approval has been obtained, the documents for service must be presented at the counter designated for this purpose. A process server will then be assigned to effect service and an appointment for service convenient to both the litigant and the assigned process server will be given.
 
-(4) On the appointed date, the person accompanying the process server must call at the Registry. The amount required for the transport charges of the process server (a record of which will be kept) must be tendered, or, alternatively, the process server in question must be informed that transport for him or her will be provided. The Registry will then instruct the process server to effect service.&#x20;
+&#x20;(4) On the appointed date, the person accompanying the process server must call at the Registry. The amount required for the transport charges of the process server (a record of which will be kept) must be tendered, or, alternatively, the process server in question must be informed that transport for him or her will be provided. The Registry will then instruct the process server to effect service.&#x20;
 
 (5) Under no circumstances should any payment be made directly to the process server.
 
@@ -94,7 +94,7 @@ _**Application for substituted service by way of posting on the front door at th
 >
 > (c) details of the applicant’s attempts to contact the contacts of the person to be served, including the number of such attempts made, the dates and mode of the said attempts (i.e. whether by telephone, letter, or meeting), and the contents of any communications made, whether written or oral;
 >
-> (d) the name and address of the last known employer (if any) of the person to be served, and the result of enquiries the applicant has made of that employer as to the person’s whereabouts, including the date of such enquiries, the mode of the said enquiries (i.e. whether by telephone, letter, or meeting), and the contents of any communications made, whether written or oral;                         &#x20;
+> (d) the name and address of the last known employer (if any) of the person to be served, and the result of enquiries the applicant has made of that employer as to the person’s whereabouts, including the date of such enquiries, the mode of the said enquiries (i.e. whether by telephone, letter, or meeting), and the contents of any communications made, whether written or oral;
 >
 > (e) details of the nationality of the person to be served.
 
@@ -106,7 +106,7 @@ _**Application for substituted service by way of posting on the front door at th
 
 (10) If the response to the attempt at personal service is that the person to be served has “moved away”, and the applicant is alleging that the person is evading service, evidence is required in the affidavit to support the applicant’s belief that the person is evading service.
 
-_**Application for substituted service by way of prepaid AR registered post / ordinary post**_   &#x20;
+_**Application for substituted service by way of prepaid AR registered post / ordinary post**_
 
 (11) On an application for substituted service by way of prepaid AR registered post / ordinary post, the applicant must state the following matters in the affidavit:
 
@@ -132,7 +132,7 @@ _**Application for substituted service by way of advertisement**_
 >
 > (c) if the advertisement is to be placed in an overseas newspaper, the grounds for the applicant’s belief as to why the person to be served is thought to be in that particular country.
 
-(16) An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
+(16) An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his or her language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
 
 _**Application for dispensation of service**_
 
@@ -190,7 +190,7 @@ _**Application for dispensation of service**_
 
 (9) Organisations providing residential accommodation to P
 
-> (a) If P resides at an organisation providing residential accommodation (regardless of whether it also provides care or treatment to P), the applicant shall serve the originating application, the supporting affidavits and the Notice of Proceedings (Organisation) in Form 71C of Appendix A of these Practice Directions on such an organisation within 1 week after the application has been issued . For the purposes of the application, the organisation providing residential accommodation to P shall be considered a relevant person. However, the applicant need not obtain the consent of such an organisation to the application.
+> (a) If P resides at an organisation providing residential accommodation (regardless of whether it also provides care or treatment to P), the applicant shall serve the originating application, the supporting affidavits and the Notice of Proceedings (Organisation) in Form 71C of Appendix A of these Practice Directions on such an organisation within 1 week after the application has been issued. For the purposes of the application, the organisation providing residential accommodation to P shall be considered a relevant person. However, the applicant need not obtain the consent of such an organisation to the application.
 >
 > (b) If the organisation providing residential accommodation to P wishes to furnish any relevant information for the Court’s consideration and determination of the application in the best interests of P, it shall notify the Court within 8 days after the date on which the organisation is served with the application. If such a notification is submitted, the Court may require and direct for the submission of a report and / or attendance of the maker of the report at the hearing of the application.
 >
@@ -206,7 +206,7 @@ _**Application for dispensation of service**_
 
 (1) In all cases of notification, the person effecting notification must provide P with the information required under Part 7, Rule 22 of the Family Justice (General) Rules 2024 in a way that is appropriate to P’s circumstances (for example, using simple language, visual aids or any other appropriate means).
 
-(2) Under the Mental Capacity Act 2008, notification of P shall be the norm rather than the exception. However, in certain appropriate circumstances, the person required to notify P may apply to Court for an order to dispense with the requirement to notify P. Such an application is appropriate where, for example, P is in a permanent vegetative state or a minimally conscious state, or where notification is likely to cause significant and disproportionate distress to P. The reasons for seeking dispensation of notification shall be stated in the supporting affidavit of the applicant
+(2) Under the Mental Capacity Act 2008, notification of P shall be the norm rather than the exception. However, in certain appropriate circumstances, the person required to notify P may apply to Court for an order to dispense with the requirement to notify P. Such an application is appropriate where, for example, P is in a permanent vegetative state or a minimally conscious state, or where notification is likely to cause significant and disproportionate distress to P. The reasons for seeking dispensation of notification shall be stated in the supporting affidavit of the applicant.
 
 ## 77. Responding to an application
 
