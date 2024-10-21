@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 15 OCTOBER 2024'
+description: 'LAST UPDATED: 21 OCTOBER 2024'
 ---
 
 # Family Justice Courts Practice Directions 2024
@@ -235,6 +235,24 @@ description: 'LAST UPDATED: 15 OCTOBER 2024'
 89\. Amendment of originating application for adoption of child
 
 90\. Amendment of documents
+
+### **Part 7I:** THERAPEUTIC JUSTICE MODEL
+
+90A. Introduction
+
+90B. Definition and objectives of Therapeutic Justice
+
+90C. Purpose and application
+
+90D. The tracks and the triage process
+
+90E.  Standard Track
+
+90F. Teams Track
+
+90G. Role of parties and solicitors under the TJ Model
+
+90H.  Exercise of judge-led powers and the Court’s discretion as to costs
 
 ### Part 8: DISCLOSURE
 

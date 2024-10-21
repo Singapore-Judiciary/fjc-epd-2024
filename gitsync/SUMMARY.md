@@ -8,6 +8,7 @@
 * [PART 5: PARTIES TO PROCEEDINGS](part-5-parties-to-proceedings.md)
 * [PART 6: SERVICE, CONSENT AND RELEVANT PERSONS](part-6-service-consent-and-relevant-persons.md)
 * [PART 7: JUDGE-LED APPROACH IN RESOLVING FAMILY DISPUTES](part-7-judge-led-approach-in-resolving-family-disputes.md)
+* [PART 7I: THERAPEUTIC JUSTICE MODEL](part-7i-therapeutic-justice-model.md)
 * [PART 8: DISCLOSURE](part-8-disclosure.md)
 * [PART 9: EXPERT EVIDENCE](part-9-expert-evidence.md)
 * [PART 10: RELEVANT PROFESSIONALS AND CHILD REPORTS](part-10-relevant-professionals-and-child-reports.md)
