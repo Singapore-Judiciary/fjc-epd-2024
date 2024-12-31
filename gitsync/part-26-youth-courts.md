@@ -29,6 +29,8 @@
 > 243\. Giving evidence through live video or television link
 >
 > 244\. Documents for use in criminal trials
+>
+> 244A. Application by person-in-charge of juvenile rehabilitation centre
 
 ## 230. Application and Appeals
 
@@ -205,3 +207,26 @@ Where a charge or document is required to be amended, a fresh copy of the charge
 (6) Parties may obtain directions of the Court if they are uncertain if the documents should be electronically filed, submitted on a CD-ROM, DVD-ROM or such other storage medium, or tendered by hard copy.
 
 (7) The party tendering document(s) at trial (i.e., the prosecution or defence) must provide hard copies of the document(s) at trial to the unrepresented party and to the witness.
+
+## 244A. Application by person-in-charge of juvenile rehabilitation centre
+
+(1) An application under section 49(8) of the Children and Young Persons Act 1993 by the person-in-charge (“PIC”) of a juvenile rehabilitation centre, to vary or discharge an order made under section 49(1)(_i_) of that Act for a child or young person to be sent to a juvenile rehabilitation centre, must be made in Form 209 of Appendix F of these Practice Directions.
+
+(2) Unless the Court otherwise directs, the PIC making the application under sub-paragraph (1) must serve a Notice of Application (Form 210 of Appendix F of these Practice Directions) on the parent or guardian of the child or young person within 7 days after the date the application is made.
+
+_**Service of Notice of Application**_
+
+(3) Unless the Court otherwise directs, the Notice of Application under sub-paragraph (2) may be served on a person:
+
+> (a) by delivering the Notice to the person personally;
+>
+> (b) by delivering the Notice to any adult who is a member of the person’s family and who resides at the person’s last known place of residence; or
+>
+> (c) by sending the Notice to the person’s last known place of residence or business, or to any address provided by the person as an address for service, by registered post in a cover addressed to the person.
+
+(4) A Notice of Application sent by registered post to a person in accordance with sub-paragraph (3)(c) is to be treated as duly served on the person at the time when the Notice would in the ordinary course of post be delivered.
+
+(5) In proving service of a Notice of Application by registered post, it is sufficient to prove that the cover containing the Notice was properly addressed, stamped and posted by registered post.
+
+(6) If required by the Court, the person who effects service of a Notice of Application in accordance with sub-paragraph (3) must file an affidavit in Form 211 of Appendix F of these Practice Directions as evidence of such service.
+

@@ -15,6 +15,8 @@
 > 7\. Forms
 >
 > 8\. Registrar’s Circulars
+>
+> 8A. Compliance with Practice Directions and Registrar’s Circulars
 
 ## 1. Citation and commencement <a href="#id-1-introduction" id="id-1-introduction"></a>
 
@@ -159,5 +161,9 @@ In these Practice Directions, unless the context otherwise requires:
 ## 8. Registrar’s Circulars <a href="#id-2-calculation-of-time" id="id-2-calculation-of-time"></a>
 
 Registrar’s Circulars can be found at the Singapore Courts website at [https://www.judiciary.gov.sg](https://www.judiciary.gov.sg).
+
+## 8A. Compliance with Practice Directions and Registrar’s Circulars
+
+Practice Directions and Registrar’s Circulars are issued by the Registrar to supplement the Family Justice (General) Rules 2024, the Family Justice (Probate and Other Matters) Rules 2024, the Family Justice (Criminal Proceedings in Youth Courts) Rules 2024 and the Family Justice (Protection from Harassment) Rules 2024 by regulating court practice and procedure. Court users are expected to comply with all Practice Directions and Registrar’s Circulars issued by the Registrar.
 
 &#x20;

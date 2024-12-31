@@ -116,9 +116,9 @@ _**Conduct of hearing**_
 
 (12) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to:
 
-> (a) [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC\_MAINTPOS@judiciary.gov.sg) (for maintenance and personal protection matters under the Women’s Charter 1961, the Maintenance Orders (Reciprocal Enforcement) Act 1975 or the Vulnerable Adults Act 2018 and Youth Court matters)
+> (a) [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC_MAINTPOS@judiciary.gov.sg) (for maintenance and personal protection matters under the Women’s Charter 1961, the Maintenance Orders (Reciprocal Enforcement) Act 1975 or the Vulnerable Adults Act 2018 and Youth Court matters)
 >
-> (b) [FJC\_FAMILY\_REGISTRY@judiciary.gov.sg](mailto:FJC\_FAMILY\_REGISTRY@judiciary.gov.sg) (for all other matters).
+> (b) [FJC\_FAMILY\_REGISTRY@judiciary.gov.sg](mailto:FJC_FAMILY_REGISTRY@judiciary.gov.sg) (for all other matters).
 
 ## 197. Technology facilities in Supreme Court building
 
@@ -185,7 +185,7 @@ _**General correspondence**_
 
 (3) All correspondence to the Court relating to or in connection with any pending cause or matter must be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not doing so. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate correspondence or correspondence that is not copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not doing so.
 
-(4) In addition, all letters should be captioned with the number of the case to which they relate and the names of the parties. For example:
+(4) The minimum font size to be used is Times New Roman 12 or its equivalent, unless there are good reasons for using a smaller font size. In addition, all letters should be captioned with the number of the case to which they relate and the names of the parties. For example:
 
 **FC/ OAD 1/2024** \
 **Between AB and CD**

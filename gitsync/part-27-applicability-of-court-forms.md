@@ -11,6 +11,7 @@
 > > * Forms in Appendix C (Forms for use in Family Justice (Probate and Other Matters) Rules 2024)
 > > * Forms in Appendix D (Forms for use in Family Justice (Protection from Harassment) Rules 2024)
 > > * Appendix E (Sample Bills of Costs)
+> > * Forms in Appendix F (Forms for use in Family Justice (Criminal Proceedings in Youth Courts) Rules 2024)
 
 ## 245. Applications and documents with no specific court forms
 
@@ -56,3 +57,6 @@ Where a court form is remotely composed on the applicable Electronic Filing Serv
 
 <table data-full-width="false"><thead><tr><th width="136">Sample No.</th><th>Description</th></tr></thead><tbody><tr><td>A</td><td>Bill of Costs for Contentious Business - Trials</td></tr><tr><td>B</td><td>Bill of Costs for Contentious Business other than Trials</td></tr><tr><td>C</td><td>Bill of Costs for Non-Contentious Business</td></tr></tbody></table>
 
+**Forms in Appendix F (Forms for use in Family Justice (Criminal Proceedings in Youth Courts) Rules 2024)**
+
+<table data-full-width="true"><thead><tr><th>Form No.</th><th>Form Title</th><th>Applicable Rule(s) / PD Paragraph(s)</th><th>When should the form be used?</th><th>Remarks</th></tr></thead><tbody><tr><td>209</td><td><p>Application by the Person-in-Charge of a Juvenile Rehabilitation Centre (CYPA)</p><p> </p></td><td>Para 244A(1) PD</td><td><p>To be used by the person-in-charge of a juvenile rehabilitation centre to apply to vary or discharge an Order made under section 49(1)(<em>i</em>) of the Children and Young Persons Act 1993 (“CYPA”).</p><p> </p></td><td> </td></tr><tr><td>210</td><td><p>Notice of Application (Person-in-Charge of a Juvenile Rehabilitation Centre) (CYPA)</p><p> </p></td><td>Para 244A(2) PD</td><td><p>To be used when the person-in-charge of a juvenile rehabilitation centre is required to serve a Notice of Application on the parent or guardian of a child or young person to notify him or her of the application to vary or discharge an order made under section 49(1)(<em>i</em>) of the CYPA and inform him or her to attend before the Court to be heard on the application.</p><p> </p></td><td> </td></tr><tr><td>211</td><td>Affidavit of Service (CYPA)</td><td>Para 244A(6) PD</td><td><p>To be used when a person is required to file proof of service in respect of an application to vary or discharge an Order made under section 49(1)(<em>i</em>) of the CYPA.  </p><p> </p></td><td> </td></tr></tbody></table>

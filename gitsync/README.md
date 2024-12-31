@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 21 OCTOBER 2024'
+description: 'LAST UPDATED: 1 JANUARY 2024'
 ---
 
 # Family Justice Courts Practice Directions 2024
@@ -27,6 +27,8 @@ description: 'LAST UPDATED: 21 OCTOBER 2024'
 7\. Forms
 
 8\. Registrar’s Circulars
+
+8A. Compliance with Practice Directions and Registrar’s Circulars
 
 ### PART 2: PROCEEDINGS UNDER PART 10 OF THE WOMEN’S CHARTER 1961
 
@@ -616,6 +618,8 @@ description: 'LAST UPDATED: 21 OCTOBER 2024'
 
 244\. Documents for use in criminal trials
 
+244A. Application by person-in-charge of juvenile rehabilitation centre
+
 ### PART 27: APPLICABILITY OF COURT FORMS
 
 245\. Applications and documents with no specific court forms
@@ -640,4 +644,4 @@ description: 'LAST UPDATED: 21 OCTOBER 2024'
 
 ### APPENDIX E: SAMPLE BILLS OF COSTS
 
-### APPENDIX F: LIST OF FAMILY JUSTICE (GENERAL) RULES 2024 FORMS WHICH APPLY TO YOUTH COURT PROCEEDINGS
+### APPENDIX F: FORMS FOR USE IN FAMILY JUSTICE (CRIMINAL PROCEEDINGS IN YOUTH COURTS) RULES 2024
