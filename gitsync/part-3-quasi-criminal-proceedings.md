@@ -36,7 +36,9 @@
 >
 > 38\. Showing proof of payment
 >
-> 39\. Interlocutory applications
+> 39\. Interlocutory and other applications
+>
+> 39A. Substitution of applicant for protection order
 >
 > **3C: Category 2 Proceedings**
 >
@@ -52,9 +54,27 @@
 >
 > 44\. Pre-hearing matters
 >
-> 45\. Interlocutory applications
+> 45\. Interlocutory and other applications
 >
 > 46\. Title of proceedings
+>
+> **3I: Enforcement of child access orders**
+>
+> 46A. Definitions of this Part
+>
+> 46B. Enforcement of access orders by the Family Courts
+>
+> 46C. Scope of access enforcement application
+>
+> 46D. Commencement documents for access enforcement application
+>
+> 46E. Compliance bond
+>
+> 46F. Application to discharge compliance bond
+>
+> 46G. Application to forfeit compliance bond
+>
+> 46H. Hearings in Court and in chambers
 
 ## 3A: General
 
@@ -66,21 +86,23 @@ In Part 3, unless the context otherwise requires:
 >
 > (b) “Category 1 proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
 >
-> (c) “Category 2 proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
+> (c) “Category 1A proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
 >
-> (d) “Category 3 proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
+> (d) “Category 2 proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
 >
-> (e) “Category 3A proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
+> (e) “Category 3 proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
 >
-> (f) “Category 3B proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
+> (f) “Category 3A proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
 >
-> (g) “Category 4 proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024.
+> (g) “Category 3B proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024;
+>
+> (h) “Category 4 proceedings” has the meaning given by Part 3, Rule 2 of the Family Justice (General) Rules 2024.
 
 ## 24. Application of this Part 3
 
 (1) The directions in paragraphs 25, 26 and 27 of these Practice Directions apply in relation to proceedings mentioned in Part 3, Rule 1 of the Family Justice (General) Rules 2024.
 
-(2) The directions in paragraphs 28, 29 and 30 of these Practice Directions apply in relation to Category 1 proceedings, Category 2 proceedings and Category 3 proceedings only.
+(2) The directions in paragraphs 28, 29 and 30 of these Practice Directions apply in relation to Category 1 proceedings, Category 1A proceedings, Category 2 proceedings and Category 3 proceedings only.
 
 (3) The directions in paragraph 31 apply in relation to Category 1 proceedings, Category 2 proceedings and Category 3B proceedings only.
 
@@ -92,7 +114,7 @@ In Part 3, unless the context otherwise requires:
 
 ## 25. Application of Practice Directions
 
-(1) The following parts / paragraphs of these Practice Directions apply with necessary modifications to Category 1 proceedings:
+(1) The following parts / paragraphs of these Practice Directions apply with necessary modifications to Category 1 proceedings and Category 1A proceedings:
 
 > Part 1
 >
@@ -182,7 +204,7 @@ In Part 3, unless the context otherwise requires:
 >
 > Part 27
 
-(6) For Category 4 proceedings, any reference to filing of documents, requests or correspondence through the Electronic Filing Service in these Practice Directions is to be read as a reference to submission to the Registry via email to [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC\_MAINTPOS@judiciary.gov.sg) or submission of hard copies.
+(6) For Category 4 proceedings, any reference to filing of documents, requests or correspondence through the Electronic Filing Service in these Practice Directions is to be read as a reference to submission to the Registry via email to [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC_MAINTPOS@judiciary.gov.sg) or submission of hard copies.
 
 ## 26. Bundles of authorities
 
@@ -194,7 +216,7 @@ In Part 3, unless the context otherwise requires:
 
 ## 27. Request for Court records
 
-(1) In relation to any Category 1 proceedings, Category 2 proceedings or Category 3 proceedings:
+(1) In relation to any Category 1 proceedings, Category 1A proceedings, Category 2 proceedings or Category 3 proceedings:
 
 > (a) An application for a copy of any part of the record of any proceedings by authorised users for a case registered in the iFAMS or migrated to the iFAMS must be made via the iFAMS under “Request for Court records”.
 >
@@ -298,13 +320,13 @@ Where an appeal is to be filed under Part 19, Division 4 of the Family Justice (
 
 (1) The prior written consent of the party referred to in Part 3, Rules 9(3)(a) and 9(4)(a) of the Family Justice (General) Rules 2024 shall be in Form 24 of Appendix A of these Practice Directions. This Form can be submitted in its physical form or by using the QR Code provided for this purpose which is made available at the Court premises and also found on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg).
 
-(2) In the event of any change to the party’s details in Form 24, such as email address; mobile telephone number; or if there is a change in the party’s position with regard to his or her consent for service of the summons; it shall be for the party to notify the Court of the changes within 7 days of such change by email sent to: [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC\_MAINTPOS@judiciary.gov.sg). The said email must make reference to the relevant case numbers and be copied to the other party in the proceedings. If there is revocation of consent, the date of revocation shall be taken to be the date of the email unless it is otherwise specified to take effect on a later date.
+(2) In the event of any change to the party’s details in Form 24, such as email address; mobile telephone number; or if there is a change in the party’s position with regard to his or her consent for service of the summons; it shall be for the party to notify the Court of the changes within 7 days of such change by email sent to: [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC_MAINTPOS@judiciary.gov.sg). The said email must make reference to the relevant case numbers and be copied to the other party in the proceedings. If there is revocation of consent, the date of revocation shall be taken to be the date of the email unless it is otherwise specified to take effect on a later date.
 
 (3) The party will thereafter receive an acknowledgement from the Family Justice Courts.
 
 ## 35. Documents and affidavits in respect of proceedings under Parts 7 and 8 of the Women’s Charter 1961
 
-(1) Affidavits to be filed under Part 3, Rule 19(1)(a) or 19(2) of the Family Justice (General) Rules 2024 should contain only facts relevant to the application and shall, as far as possible, be in Form 27, 28A, 28B, 28C, 28D, 28E or 28F (as the case may be) of Appendix A of these Practice Directions. Parties may depart from the standard form to meet their case as necessary.
+(1) Affidavits to be filed under Part 3, Rule 19(1)(a) or 19(2) of the Family Justice (General) Rules 2024 should contain only facts relevant to the application and shall, as far as possible, be in Form 27, 27-B, 27-C, 28A, 28B, 28C, 28D, 28E or 28F (as the case may be) of Appendix A of these Practice Directions. Parties may depart from the standard form to meet their case as necessary.
 
 (2) The Court may, in its discretion, allow an unsworn statement prepared in accordance with the standard form, to be filed in lieu of an affidavit. Parties may depart from the standard form to meet their case as necessary.
 
@@ -350,7 +372,7 @@ Notwithstanding that an application under Part 8 of the Women’s Charter 1961 h
 
 (4) To avoid doubt, if the proof of payment via the iFAMS is rejected, or if the party required to show proof of payment does not receive any notification from the Court exempting him from attending Court on the acceptance of the proof of payment, the party must attend personally at the Maintenance Mediation Chambers, Level 2 of the Family Justice Courts to show proof of payment on or before the date specified in the order of Court.
 
-## 39. Interlocutory applications
+## 39. Interlocutory and other applications
 
 Pursuant to Part 3, Rule 12(1)(a) of the Family Justice (General) Rules 2024, Part 3, Rule 12 applies to the following interlocutory applications arising in the course of any Category 1 proceedings:
 
@@ -369,6 +391,10 @@ Pursuant to Part 3, Rule 12(1)(a) of the Family Justice (General) Rules 2024, Pa
 > (g) An application for permission under section 62A of the Evidence Act 1893; and
 >
 > (h) An application for an extension of time.
+
+## 39A. Substitution of applicant for protection order
+
+For the purposes of Part 3, Rule 22H(3)(c) of the Family Justice (General) Rules 2024, where a protector is the applicant for a protection order made in relation to family violence against a person, and the person wishes to replace the protector as the applicant for a subsequent application under Division 3 of Part 7 of the Women’s Charter 1961 relating to that protection order, the person may obtain a copy of the relevant consent form from the protector.
 
 ## 3C: Category 2 Proceedings
 
@@ -446,7 +472,7 @@ _**Summons to a Witness**_
 
 (5) The party applying for a Summons to a Witness to give evidence must provide the reasons for the application. Any application which does not comply with the directions in this paragraph may be rejected. The approval of such applications shall be at the discretion of the Court.
 
-## 45. Interlocutory applications
+## 45. Interlocutory and other applications
 
 Pursuant to Part 3, Rule 12(1)(a) of the Family Justice (General) Rules 2024, Part 3, Rule 12 applies to the following interlocutory applications arising in the course of any Category 3 proceedings:
 
@@ -469,3 +495,116 @@ Pursuant to Part 3, Rule 12(1)(a) of the Family Justice (General) Rules 2024, Pa
 ## 46. Title of proceedings
 
 Every affidavit, statement, notice or other document in any proceedings under Division 1, 2 or 3 of Part 2 of the Vulnerable Adults Act 2018 (other than an application under section 12 for an order under section 14(1)(e), (f), (g) or (h), or an application under section 17 to vary, suspend or revoke such an order) must be entitled in the matter of the vulnerable adult concerned, naming the vulnerable adult, and in the matter of the Vulnerable Adults Act 2018.
+
+## 3I: Enforcement of child access orders
+
+## 46A. Definitions of this Part
+
+Where the words and phrases defined in Part 3A, Rule 1 of the Family Justice (General) Rules 2024 are used in this Part, they shall have the same meaning as defined in Part 3A, Rule 1 of the Family Justice (General) Rules 2024, unless otherwise specified.
+
+## 46B. Enforcement of access orders by the Family Courts
+
+(1) An access enforcement application shall be commenced in the Family Courts.
+
+(2) To avoid doubt, an access enforcement application in respect of an access order made by the General Division of the High Court (whether before, on or after 1 October 2014) shall be commenced in the Family Courts.
+
+## 46C. Scope of access enforcement application
+
+(1) An access enforcement application must only be made in respect of alleged breaches of access orders occurring on or after 2 January 2025.
+
+(2) To avoid doubt, sub-paragraph (1) applies to all access orders, whether made before, on or after 2 January 2025.
+
+## 46D. Commencement documents for access enforcement application
+
+_Originating application_
+
+(1) Without limiting Part 3A, Rule 2 of the Family Justice (General) Rules 2024, the originating application must:
+
+> (a) specify the access order sought to be enforced, stating the order number and the date on which the access order was made;
+>
+> (b) specify the paragraphs of the access order alleged to have been breached; and
+>
+> (c) state the specific orders or reliefs sought.
+
+(2) Any other specific orders or reliefs that are required on the particular facts of each case are to be included.
+
+_Supporting affidavit by the applicant_
+
+(3) The following must be included in the supporting affidavit referred to in Part 3A, Rule 3 of the Family Justice (General) Rules 2024:
+
+> (a) the name, description and address of the respondent against whom the application is being sought;
+>
+> (b) the specific paragraphs of the access order alleged to have been breached, with a copy of the access order exhibited;
+>
+> (c) the specific date, time, and location of each instance of the alleged breach, with sufficient details to allow the respondent to respond to the allegations, with supporting materials (if any) exhibited;
+>
+> (d) whether the respondent has been served with a copy of the relevant access order and / or is aware of the contents of the access order, and if so, the details of such service and / or how the respondent became aware of the contents of the access order, with supporting materials (if any) exhibited;
+>
+> (e) whether the applicant has made any attempts to resolve the respondent’s alleged breach of the access order, and if so, the details of such attempts;
+>
+> (f) whether there have been previous committal proceedings brought against the respondent for breach of access orders, and if so, the case number and the orders that were made in those proceedings, with copies of the previous orders (if any) exhibited;
+>
+> (g) whether there have been previous access enforcement applications brought against the respondent for breach of access orders, and if so, the case number and the orders that were made in those proceedings, with copies of the previous orders (if any) exhibited; and
+>
+> (h) all necessary evidence in support of the application, which may contain statements of information or belief with the sources and grounds clearly stated.
+
+(4) The particulars of the respondent’s alleged breach of the access order must only include breaches alleged to have occurred on or after 2 January 2025.
+
+_Respondent’s affidavit_
+
+(5) The respondent’s affidavit must contain all necessary evidence in response to the application and may contain statements of information or belief with the sources and grounds clearly stated.
+
+## 46E. Compliance bond
+
+(1) Where the Court has determined that there has been a breach of the relevant access order, the Court may order the respondent to execute a compliance bond in Form 49-A of Appendix A of these Practice Directions and require that the respondent pay the amount of the bond in cash.
+
+(2) The cash deposited as security for the compliance bond must be paid into Court in the manner and within the time period as directed by the Court.
+
+(3) The respondent must comply with the conditions stated in the compliance bond until such time when the compliance bond is discharged or has expired. If the condition(s) of the compliance bond is / are not complied with, the Court may make further orders as it thinks fit.
+
+(4) When the compliance bond has expired and no applications have been made to forfeit the bond before its expiry, the respondent may make a request for the release of the security by filing an “Other Hearing Related Request”. The respondent is to state the reasons for the release of the security in the request and exhibit a copy of the compliance bond.
+
+## 46F. Application to discharge compliance bond
+
+(1) The summons for an application to discharge a compliance bond must be made in Form 67A of Appendix A of these Practice Directions and specify the compliance bond sought to be discharged, with a copy of the compliance bond exhibited.
+
+(2) The relief sought in the summons should be phrased as follows:
+
+> Discharge of the compliance bond executed by the respondent on \[date] for a period of \[duration of the bond] for having complied with the access order \[order number] and condition(s) of the bond.
+
+(3) The affidavit in support of the application must state the following:
+
+> (a) particulars of the access enforcement order, with a copy of the access enforcement order exhibited;
+>
+> (b) particulars of the compliance bond, including the duration and conditions of the compliance bond (where applicable), and details of the security paid by the respondent in respect of the compliance bond, with a copy of the compliance bond exhibited;
+>
+> (c) the reasons why the compliance bond should be discharged; and
+>
+> (d) where applicable, a declaration that the respondent has fully complied with the access order and all condition(s) of the compliance bond as of the date of the affidavit.
+
+## 46G. Application to forfeit compliance bond
+
+(1) The summons for an application to forfeit a compliance bond must be made in Form 67A of Appendix A of these Practice Directions and specify the compliance bond sought to be forfeited. The application must be filed before the expiry of the bond, and no application shall be filed after the expiry of the bond.
+
+(2) The relief sought in the summons should be phrased as follows:
+
+> Forfeiture of the compliance bond executed by the respondent on \[date] for a period of \[duration of the bond] for having failed to comply with the access order \[order number] and condition(s) of the bond.&#x20;
+
+(3) The affidavit in support of the application must state the following:
+
+> (a) particulars of the access enforcement order, with a copy of the access enforcement order exhibited;
+>
+> (b) particulars of the compliance bond, including the duration and conditions of the compliance bond (where applicable), with a copy of the compliance bond exhibited; and
+>
+> (c) particulars of the respondent’s alleged failure to comply with the access order or any condition(s) of the compliance bond, and specifying the paragraph(s) of the access order and / or specific condition(s) of the compliance bond alleged to have been breached, the period in which the breach(es) is / are alleged to have occurred, and where possible, the specific dates / time of each instance of alleged breach.
+
+## 46H. Hearings in Court and in chambers
+
+(1) An access enforcement application shall be heard in Court unless otherwise ordered by the Court.
+
+(2) The following matters shall be heard in chambers unless otherwise ordered by the Court:
+
+> (a) an application to discharge a compliance bond; and
+>
+> (b) an application to forfeit a compliance bond.
+

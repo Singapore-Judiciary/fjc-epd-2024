@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 1 JANUARY 2024'
+description: 'LAST UPDATED: 2 JANUARY 2024'
 ---
 
 # Family Justice Courts Practice Directions 2024
@@ -98,7 +98,9 @@ description: 'LAST UPDATED: 1 JANUARY 2024'
 
 38\. Showing proof of payment
 
-39\. Interlocutory applications
+39\. Interlocutory and other applications
+
+39A. Substitution of applicant for protection order
 
 **3C: Category 2 Proceedings**
 
@@ -114,7 +116,7 @@ description: 'LAST UPDATED: 1 JANUARY 2024'
 
 44\. Pre-hearing matters
 
-45\. Interlocutory applications
+45\. Interlocutory and other applications
 
 46\. Title of proceedings
 
