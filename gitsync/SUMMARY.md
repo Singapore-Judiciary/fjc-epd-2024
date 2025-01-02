@@ -4,6 +4,7 @@
 * [PART 1: INTRODUCTION](part-1-introduction.md)
 * [PART 2: PROCEEDINGS UNDER PART 10 OF THE WOMEN’S CHARTER 1961](part-2-proceedings-under-part-10-of-the-womens-charter-1961.md)
 * [PART 3: QUASI-CRIMINAL PROCEEDINGS](part-3-quasi-criminal-proceedings.md)
+* [PART 3I: ENFORCEMENT OF CHILD ACCESS ORDERS](part-3i-enforcement-of-child-access-orders.md)
 * [PART 4: COMMENCEMENT OF PROCEEDINGS](part-4-commencement-of-proceedings.md)
 * [PART 5: PARTIES TO PROCEEDINGS](part-5-parties-to-proceedings.md)
 * [PART 6: SERVICE, CONSENT AND RELEVANT PERSONS](part-6-service-consent-and-relevant-persons.md)

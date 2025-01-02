@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 2 JANUARY 2024'
+description: 'LAST UPDATED: 2 JANUARY 2025'
 ---
 
 # Family Justice Courts Practice Directions 2024
@@ -119,6 +119,26 @@ description: 'LAST UPDATED: 2 JANUARY 2024'
 45\. Interlocutory and other applications
 
 46\. Title of proceedings
+
+### PART 3I: ENFORCEMENT OF CHILD ACCESS ORDERS
+
+**3I: Enforcement of child access orders**
+
+46A. Definitions of this Part
+
+46B. Enforcement of access orders by the Family Courts
+
+46C. Scope of access enforcement application
+
+46D. Commencement documents for access enforcement application
+
+46E. Compliance bond
+
+46F. Application to discharge compliance bond
+
+46G. Application to forfeit compliance bond
+
+46H. Hearings in Court and in chambers
 
 ### Part 4: COMMENCEMENT OF PROCEEDINGS
 
@@ -635,6 +655,7 @@ description: 'LAST UPDATED: 2 JANUARY 2024'
 * Forms in Appendix C (Forms for use in Family Justice (Probate and Other Matters) Rules 2024)
 * Forms in Appendix D (Forms for use in Family Justice (Protection from Harassment) Rules 2024)
 * Appendix E (Sample Bills of Costs)
+* Forms in Appendix F (Forms for use in Family Justice (Criminal Proceedings in Youth Courts) Rules 2024)
 
 ### APPENDIX A: FORMS FOR USE IN FAMILY JUSTICE (GENERAL) RULES 2024
 
