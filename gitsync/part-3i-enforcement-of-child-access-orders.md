@@ -1,7 +1,5 @@
 # PART 3I: ENFORCEMENT OF CHILD ACCESS ORDERS
 
-> **3I: Enforcement of child access orders**
->
 > 46A. Definitions of this Part
 >
 > 46B. Enforcement of access orders by the Family Courts
@@ -17,8 +15,6 @@
 > 46G. Application to forfeit compliance bond
 >
 > 46H. Hearings in Court and in chambers
-
-## 3I: Enforcement of child access orders
 
 ## 46A. Definitions of this Part
 
