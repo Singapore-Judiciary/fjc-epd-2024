@@ -26,11 +26,13 @@
 >
 > 33\. Pre-hearing matters
 >
-> 34\. Service of summons under Part 8 of the Women’s Charter 1961 (except an application made under section 69 or 70)
+> 34\. Service of summons under Part 8 or 9 of the Women’s Charter 1961 (except an application made under section 69, 70 or 70A)
 >
-> 35\. Documents and affidavits in respect of proceedings under Parts 7 and 8 of the Women’s Charter 1961
+> 35\. Documents and affidavits in respect of proceedings under Parts 7, 8 and 9 of the Women’s Charter 1961
 >
 > 36\. Appointment of maintenance record officer
+>
+> 36A.  Referral of maintenance enforcement application to maintenance enforcement officer
 >
 > 37\. Referral for assessment
 >
@@ -232,9 +234,11 @@ In Part 3, unless the context otherwise requires:
 >
 > (c) Requests to change court appointments;
 >
-> (d) Requests to restore or reinstate a struck-off case; and / or
+> (d) Requests to restore or reinstate a struck-off case;
 >
-> &#x20;(e) Requests to withdraw an application.
+> (e) Requests to withdraw an application; and/or
+>
+> (f) Request by maintenance enforcement officer for an information order or information permission.
 
 (2) The party making any of the requests in sub-paragraph (1) should provide the reasons for the request and documents in support of the request, where applicable. Any request which does not comply with the directions in this paragraph may be rejected. The approval of such requests shall be at the discretion of the Court.
 
@@ -288,7 +292,7 @@ Where an appeal is to be filed under Part 19, Division 4 of the Family Justice (
 >
 > (f) Related proceedings which are pending in any court including the Syariah Court.
 
-(2) All applications in relation to Parts 7 and 8 of the Women’s Charter 1961 under Part 3 of the Family Justice (General) Rules 2024, other than for (a) the main applications and interlocutory applications in family violence and maintenance proceedings and (b) applications for disclosure, shall be made via the iFAMS under “Other applications”.
+(2) All applications in relation to Parts 7, 8, 9 and 11 of the Women’s Charter 1961 under Part 3 of the Family Justice (General) Rules 2024, other than for (a) the main applications and interlocutory applications in family violence and maintenance proceedings and (b) applications for disclosure, shall be made via the iFAMS under “Other applications”.
 
 (3) An application for disclosure under Part 3, Rule 21 of the Family Justice (General) Rules 2024 is to be made via the iFAMS under “Applications for disclosure”.
 
@@ -298,7 +302,7 @@ Where an appeal is to be filed under Part 19, Division 4 of the Family Justice (
 
 (6) The party applying for a Summons to a Witness to give evidence must provide the reasons for the application. Any application which does not comply with the directions in this paragraph may be rejected. The approval of such applications shall be at the discretion of the Court.
 
-## 34. Service of summons under Part 8 of the Women’s Charter 1961 (except an application made under section 69 or 70)
+## 34. Service of summons under Part 8 or 9 of the Women’s Charter 1961 (except an application made under section 69, 70 or 70A)
 
 (1) The prior written consent of the party referred to in Part 3, Rules 9(3)(a) and 9(4)(a) of the Family Justice (General) Rules 2024 shall be in Form 24 of Appendix A of these Practice Directions. This Form can be submitted in its physical form or by using the QR Code provided for this purpose which is made available at the Court premises and also found on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg).
 
@@ -306,7 +310,7 @@ Where an appeal is to be filed under Part 19, Division 4 of the Family Justice (
 
 (3) The party will thereafter receive an acknowledgement from the Family Justice Courts.
 
-## 35. Documents and affidavits in respect of proceedings under Parts 7 and 8 of the Women’s Charter 1961
+## 35. Documents and affidavits in respect of proceedings under Parts 7, 8 and 9 of the Women’s Charter 1961
 
 (1) Affidavits to be filed under Part 3, Rule 19(1)(a) or 19(2) of the Family Justice (General) Rules 2024 should contain only facts relevant to the application and shall, as far as possible, be in Form 27, 27-B, 27-C, 28A, 28B, 28C, 28D, 28E or 28F (as the case may be) of Appendix A of these Practice Directions. Parties may depart from the standard form to meet their case as necessary.
 
@@ -340,9 +344,21 @@ _**Medical report required in an application under section 69(1A)**_
 
 (5) Unless the Court directs otherwise, a copy of the report under Part 3, Rule 20(1) of the Family Justice (General) Rules 2024 shall be prepared and be submitted to the Court and the parties not less than 7 working days before the hearing of the application.
 
+## 36A.  Referral of maintenance enforcement application to maintenance enforcement officer
+
+(1) Where a maintenance enforcement application has been referred to a maintenance enforcement officer (“MEO”), the parties shall prepare a set of documents as directed by the Court and as prescribed under Regulation 3 of the Women’s Charter (Enforcement of Maintenance Orders under Division 3 of Part 9) Regulations 2024.&#x20;
+
+(2) The documents referred to in sub-paragraph (1), together with any report prepared under Section 89 of the Women’s Charter 1961 (“MEO report”) (including an interim MEO report) and any other documents that may be directed by the Court, shall be submitted to the Court prior to the hearing of the maintenance enforcement application and in accordance with such directions as the Court may give.
+
+(3) Upon the referral of the maintenance enforcement application, the MEO shall contact the parties directly to make the necessary arrangements and appointments for the purposes of Section 84 of the Women’s Charter 1961. The parties shall keep to the appointments to avoid any postponement of the hearing of the maintenance enforcement application.
+
+(4) A request by a MEO under Part 3, Rule 22N(4) of the Family Justice (General) Rules 2024 must be made in Form 29-A of Appendix A of these Practice Directions and served on the party against whom production of the documents is sought and the other party.
+
+(5) Unless the Court directs otherwise, a copy of the MEO report under Section 89 of the Women’s Charter 1961 shall be prepared and be submitted to the Court and the parties not less than 7 working days before the date of the hearing of the maintenance enforcement application.
+
 ## 37. Referral for assessment
 
-Notwithstanding that an application under Part 8 of the Women’s Charter 1961 has not been made, an applicant may, with his or her consent, be referred by the Registry for an assessment to ascertain the financial circumstances of the applicant or the respondent or both prior to the making of such application.
+Notwithstanding that an application under Part 8 or 9 of the Women’s Charter 1961 has not been made, an applicant may, with his or her consent, be referred by the Registry for an assessment to ascertain the financial circumstances of the applicant or the respondent or both prior to the making of such application.
 
 ## 38. Showing proof of payment
 
@@ -370,9 +386,11 @@ Pursuant to Part 3, Rule 12(1)(a) of the Family Justice (General) Rules 2024, Pa
 >
 > (f) An application under section 28(1) of the Family Justice Act 2014;
 >
-> (g) An application for permission under section 62A of the Evidence Act 1893; and
+> (g) An application for permission under section 62A of the Evidence Act 1893;&#x20;
 >
-> (h) An application for an extension of time.
+> (h) An application for an extension of time; and
+>
+> (i) An application to set aside an information order or information permission.
 
 ## 39A. Substitution of applicant for protection order
 

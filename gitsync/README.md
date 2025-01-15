@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 2 JANUARY 2025'
+description: 'LAST UPDATED: 16 JANUARY 2025'
 ---
 
 # Family Justice Courts Practice Directions 2024
@@ -88,11 +88,13 @@ description: 'LAST UPDATED: 2 JANUARY 2025'
 
 33\. Pre-hearing matters
 
-34\. Service of summons under Part 8 of the Women’s Charter 1961 (except an application made under section 69 or 70)
+34\. Service of summons under Part 8 or 9 of the Women’s Charter 1961 (except an application made under section 69, 70 or 70A)
 
-35\. Documents and affidavits in respect of proceedings under Parts 7 and 8 of the Women’s Charter 1961
+35\. Documents and affidavits in respect of proceedings under Parts 7, 8 and 9 of the Women’s Charter 1961
 
 36\. Appointment of maintenance record officer
+
+36A.  Referral of maintenance enforcement application to maintenance enforcement officer
 
 37\. Referral for assessment
 
