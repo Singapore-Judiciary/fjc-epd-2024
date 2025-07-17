@@ -366,9 +366,9 @@ Notwithstanding that an application under Part 8 or 9 of the Women’s Charter 1
 
 (2) The Court will notify the party required to show proof of payment through either one or more of the following modes of communication – letter, email or mobile phone text message if the proof of payment is satisfactory. The notification of the Court’s acceptance of proof of payment will not be communicated orally over the telephone.
 
-(3) If the proof of payment via the iFAMS is for any reason unsatisfactory, the Court may reject the proof of payment and notify the party required to show proof of payment, by the modes of communication specified in sub-paragraph (2).
+(3) If the proof of payment shown via the iFAMS is for any reason unsatisfactory, the Court may reject the proof of payment and notify the party required to show proof of payment, by the modes of communication specified in sub-paragraph (2).
 
-(4) To avoid doubt, if the proof of payment via the iFAMS is rejected, or if the party required to show proof of payment does not receive any notification from the Court exempting him from attending Court on the acceptance of the proof of payment, the party must attend personally at the Maintenance Mediation Chambers, Level 2 of the Family Justice Courts to show proof of payment on or before the date specified in the order of Court.
+(4) To avoid doubt, if the proof of payment shown via the iFAMS is rejected, or if the party required to show proof of payment does not receive any notification from the Court exempting him or her from attending Court on the acceptance of the proof of payment, the party must attend personally at Service Hub 8 at Level 1 of the Family Justice Courts Building, to show proof of payment on or before the date specified in the order of Court.
 
 ## 39. Interlocutory and other applications
 

@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 16 JANUARY 2025'
+description: 'LAST UPDATED: 18 JULY 2025'
 ---
 
 # Family Justice Courts Practice Directions 2024
@@ -314,7 +314,7 @@ description: 'LAST UPDATED: 16 JANUARY 2025'
 
 102\. Documents in support of applications without notice for injunctions (including injunctions prohibiting the disposal of assets)
 
-103\. Providing the Immigration and Checkpoints Authority (“ICA”) with Court orders or injunctions restraining or prohibiting the taking of child out of Singapore
+103\. Seeking assistance from the Immigration and Checkpoints Authority (“ICA”) to enforce Court orders or injunctions restraining or prohibiting the taking of a child out of Singapore
 
 ### PART 13: COURT HEARINGS AND EVIDENCE
 

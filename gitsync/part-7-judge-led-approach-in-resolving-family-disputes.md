@@ -414,7 +414,7 @@ _**Initiating the communication**_
 
 (19) The initial communication should ordinarily take place between our Liaison Judge and the Liaison Judge of the other jurisdiction, if any, in order to ascertain the identity of the judge seised in that jurisdiction. If no Liaison Judge has been appointed in the other jurisdiction, the Central Authority of Singapore or the party within jurisdiction is to assist in providing the identity of the judge in the other jurisdiction.
 
-(20) When making contact with a judge in another jurisdiction, the initial communication should normally be in writing sent by email from [FJC\_Family\_Registry@judiciary.gov.sg](mailto:FJC\_Family\_Registry@judiciary.gov.sg), subject to provisions set out in this Practice Direction in relation to written communications, and should in particular identify:
+(20) When making contact with a judge in another jurisdiction, the initial communication should normally be in writing sent by email from [FJC\_Family\_Registry@judiciary.gov.sg](mailto:FJC_Family_Registry@judiciary.gov.sg), subject to provisions set out in this Practice Direction in relation to written communications, and should in particular identify:
 
 > (a) the name and contact details of the initiating judge;
 >
@@ -524,7 +524,7 @@ _**General requirements for amendment of any document**_
 >
 > (b) “Originating Application for Divorce (Amendment No. 1, pursuant to Part 8, Rule 9(1)(a)(ii) of the Family Justice (General) Rules 2024)”.
 
-_**Other requirements for amendment of documents (except Court orders which are composed online through the Electronic Filing Service)**_
+_**Other requirements for amendment of documents (except any originating process, summons or other electronic form which is composed online through the Electronic Filing Service)**_
 
 (7) The changes made in the document from the latest version of the document filed in Court should be indicated in the following way:
 

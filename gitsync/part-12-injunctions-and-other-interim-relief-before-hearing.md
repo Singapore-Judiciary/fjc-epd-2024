@@ -6,7 +6,7 @@
 >
 > 102\. Documents in support of applications without notice for injunctions (including injunctions prohibiting the disposal of assets)
 >
-> 103\. Providing the Immigration and Checkpoints Authority (“ICA”) with Court orders or injunctions restraining or prohibiting the taking of child out of Singapore
+> 103\. Seeking assistance from the Immigration and Checkpoints Authority (“ICA”) to enforce Court orders or injunctions restraining or prohibiting the taking of a child out of Singapore
 
 ## 100. Applications without notice for injunctions
 
@@ -68,29 +68,29 @@ When composing the electronic form for an injunction application (in Form 67A of
 
 (3) The Court may also require the applicant to prepare a note of the hearing setting out the salient points and arguments canvassed before the Court and may order such a note to be served together with the court documents on any opponent who is not present at the hearing or within a reasonable time after the service of the court documents.
 
-## 103. Providing the Immigration and Checkpoints Authority (“ICA”) with Court orders or injunctions restraining or prohibiting the taking of child out of Singapore
+## 103. Seeking assistance from the Immigration and Checkpoints Authority (“ICA”) to enforce Court orders or injunctions restraining or prohibiting the taking of a child out of Singapore
 
-(1) This paragraph applies to parents and / or parties who intend to seek assistance from the ICA to stop a child from being taken out of Singapore.
+(1) This paragraph applies to parties who intend to seek assistance from the ICA to prevent a child from being taken out of Singapore, in breach of a Court order or injunction.
 
-(2) In proceedings under the Women’s Charter 1961, the Guardianship of Infants Act 1934 or the International Child Abduction Act 2010, a Court may grant an order or injunction restraining one or both parent(s) or any other party from taking the child out of Singapore without an order of Court or the consent of the other or both parent(s) / parties.
+(2) In proceedings under the Women’s Charter 1961, the Guardianship of Infants Act 1934 or the International Child Abduction Act 2010, a Court may grant an order or injunction (referred to in this paragraph as an “order”) restraining any party from taking the child out of Singapore, except in certain circumstances (e.g. with the written consent of the other party or parties to the proceedings in which the order was obtained).
 
-(3) Any parent and / or party (hereinafter referred to as “the requestor”) who has been granted an order referred to in sub-paragraph (2) and who intends to seek assistance from the ICA to stop the child from being taken out of Singapore must do the following:
+(3) Any party (referred to in this paragraph as “the requestor”) who has been granted an order referred to in sub-paragraph (2) and who intends to seek assistance from the ICA to prevent the child from being taken out of Singapore must do the following:
 
-> (a) notify the ICA by providing the ICA with either a copy of the extracted or unextracted Court order referred to in sub-paragraph (2) and a copy of Form 117A of Appendix A of these Practice Directions, duly completed and signed, at least 1 working day before the ICA is required to act on the order; and
+> (a) notify the ICA by providing the ICA with either a copy of the extracted or unextracted order referred to in sub-paragraph (2) and a copy of Form 117A of Appendix A of these Practice Directions, duly completed and signed; and
 >
-> (b) where the requestor provides an unextracted order referred to in sub-paragraph (3)(a), he or she must provide a copy of the extracted order to the ICA within 8 working days from the date of notification to the ICA of the order.
+> (b) where the requestor provides an unextracted order\* referred to in sub-paragraph (3)(a), he or she must provide a copy of the extracted order to the ICA within 8 working days from the date of notification to the ICA of the order.\
+> \
+> \*An “unextracted order” mentioned in this paragraph refers to the draft order of Court that has been duly signed by one party or both parties (as the case may be) and electronically filed through IELS, and that is pending approval by the Family Justice Courts.
 
-(4) In the event that:
+(4) If the order referred to in sub-paragraph (3)(a) ceases to have effect, or is varied or discharged pursuant to a further Court order (referred to in this paragraph as a “further order”) such that the travel restrictions no longer apply, the requestor shall notify the ICA of the same, provide a copy of the extracted further order in that notification, and copy that notification to the other party or parties to the proceedings in which that further order was obtained. Where the effect of the further order is to remove travel restrictions, ICA will only act on the basis of an extracted further order.
 
-> (a) the order referred to in sub-paragraph (3)(a) ceases to have effect, is varied or discharged pursuant to a further order of Court (hereinafter referred to as “further order”) such that the travel restrictions no longer apply; or
->
-> (b) consent is given by the relevant party for the other party to take the child out of Singapore (whether for a specific purpose only or generally) (hereinafter referred to as “the consent”) and such consent is provided for in the order referred to in sub-paragraph 3(a);
+(5) If the order referred to in sub-paragraph (3)(a) is varied pursuant to a further order such that further travel restrictions apply, the requestor shall immediately notify the ICA of the same, provide a copy of the further order in that notification (in which event the requirements set out at sub-paragraphs (3)(a) and (b) would apply, with the necessary modifications in relation to the further order as they apply in relation to the order referred to in sub-paragraph (3)(a)), and copy the other party or parties to the proceedings in which that further order was obtained.
 
-the requestor shall immediately notify the ICA of the same (hereinafter referred to as “further notification”), copying the other party, and provide a copy of the extracted further order or a copy of the consent, as the case may be. The consent shall be given in Form 117B of Appendix A of these Practice Directions. The further notification to the ICA must be given at least 1 working day before the ICA is required to stop acting on the order.
+(5A) Where written consent is required to bring the child out of Singapore, such consent shall be given in Form 117B of Appendix A of these Practice Directions, and the ICA shall be notified of such consent.
 
-(5) If the order referred to in sub-paragraph (3)(a) is varied pursuant to a further order such that further travel restrictions apply, the requestor shall immediately notify the ICA of the same, copying the other party, and provide a copy of the further order (in which event the requirements set out at sub-paragraphs (3)(a) and (b) would apply). The further notification to the ICA must be given at least 1 working day before the ICA is required to act on the further travel restrictions.
+(5B) All notifications to the ICA referred to in this paragraph must be given at least 1 working day before they are intended to have effect.
 
-(6) The notification to the ICA referred to in sub-paragraph (3)(a), provision of a copy of the extracted order referred to in sub-paragraph (3)(b) and the further notifications to the ICA referred to in sub-paragraphs (4) and (5) must be sent to the ICA via an email (which should not exceed 5MB in size) to the email address set out below (and copied to the other party or the party’s solicitors via email or ordinary mail, whichever applicable) during the ICA’s working hours only:
+(6) The notifications to the ICA referred to in sub-paragraphs (3)(a), (4), (5) and (5A), and the copies of the extracted orders or further orders referred to in sub-paragraphs (3)(b), (4) and (5), must be sent to the ICA via email (which should not exceed 5MB in size) to the email address set out below (and copied to the other party (being a party to the proceedings in relation to which the notification was sent to the ICA or the order was obtained) or the party’s solicitors via email or ordinary mail, whichever is applicable). All such emails to the ICA will be attended to during the ICA’s working hours only:
 
 ICA’s email address: ICA\_FJC\_Notification@ica.gov.sg
 
@@ -102,7 +102,7 @@ ICA’s working hours are:
 
 \-          Saturdays, Sundays and Public Holidays: Closed.
 
-(7) The ICA will not provide assistance to stop the child from being taken out of Singapore or otherwise take any action under this paragraph if any party fails to comply with the requirements provided in this paragraph.
+(7) The ICA will **not provide assistance** to stop the child from being taken out of Singapore or otherwise take any action under this paragraph if any party fails to comply with the requirements in this paragraph.
 
-(8) “Unextracted order” referred to in this paragraph refers to the draft order of Court that has been duly signed by one party or both parties (as the case may be) and electronically filed in the IELS for the Family Justice Courts’ approval, but the sealed copy bearing the Court’s seal and Registrar’s signature has not been returned to the party / parties.
+(8) If the ICA’s assistance to enforce an order referred to in sub-paragraph (3)(a) or a further order referred to in sub-paragraph (5) is no longer required, the requestor shall notify the ICA of the same with brief reasons, and send a copy of the notification and brief reasons to every other party to the proceedings in which that order or further order was obtained.
 
