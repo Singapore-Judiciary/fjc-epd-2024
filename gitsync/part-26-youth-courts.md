@@ -130,7 +130,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (5) It is not necessary for documents to have a cover page or backing sheet.
 
-(6) Every page of a document must be paginated consecutively so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file, and the page number must be inserted at the centre top of the page.
+(6) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 (7) The prosecution or defence must provide hard copies of documents that are electronically filed to the unrepresented litigant.
 

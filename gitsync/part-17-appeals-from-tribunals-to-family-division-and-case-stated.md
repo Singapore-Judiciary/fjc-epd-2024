@@ -10,11 +10,23 @@
 
 (3) The formatting requirements for written submissions filed under Part 20, Rule 4(1) of the Family Justice (General) Rules 2024 are as follows:
 
-> (a) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document, the page number must be inserted at the top right hand corner of the page;
 >
-> (b) the print of every page must be double-spaced; and
+> (b) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
 >
-> (c) every page must have a margin on all 4 sides, each of at least 35 mm in width.
+> (c) the print of every page must be double-spaced, except for the following, which may be single-spaced:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts;
+>
+> (d) every page must have a margin on all 4 sides, each of at least 35 mm in width; and
+>
+> (e) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 (4) The written submissions filed under Part 20, Rule 4(1) of the Family Justice (General) Rules 2024 should not exceed 35 pages (including the cover page and table of contents). The written submissions must include a cover page and a table of contents. Parties are to note that where the Court allows the prescribed page limit to be exceeded, fees are payable under the Third Schedule to the Family Justice (General) Rules 2024.
 

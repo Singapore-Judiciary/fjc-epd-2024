@@ -116,7 +116,7 @@
 
 (3) The Duty Registrar will only arrange for the hearing of the application before the Duty Judge if the applicant satisfies the Duty Registrar that the case meets all the criteria stipulated in sub-paragraph (1) and the application is so urgent that it cannot be heard the next working day. The Duty Registrar or Duty Judge may also give directions for the urgent hearing to take place remotely or, alternatively, with parties attending in person at any place as directed.
 
-(4) The Duty Registrar or the Duty Judge may, in lieu of filing, direct the applicant to tender the application and supporting documents by email or in hard copies. In this case, the applicant is to provide a signed undertaking that all documents (including the originating application if applicable) will be filed the next available working day. Where the Duty Registrar or the Duty Judge directs the applicant to provide hard copies of the relevant documents, the applicant must bring three copies each of the application, the supporting affidavit and the appropriate draft orders of Court (Form 115 of Appendix A of these Practice Directions) for the hearing of the application without notice.
+(4) The Duty Registrar or the Duty Judge may, in lieu of filing, direct the applicant to tender the application and supporting documents by email or in hard copies. In this case, the applicant is to provide a signed undertaking that all documents (including the originating application if applicable) will be filed the next available working day. Where the Duty Registrar or the Duty Judge directs the applicant to provide hard copies of the relevant documents, the applicant must bring three copies each of the application, the supporting affidavit and the appropriate draft orders of Court (Form 115 of Appendix A of these Practice Directions) for the hearing of the application without notice. Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 (5) To avoid doubt, every applicant must comply with paragraph 100 of these Practice Directions.
 
@@ -176,7 +176,7 @@ _**Attendance before the Duty Registrar by video conferencing**_
 
 (11) A solicitor or a litigant who is not legally represented (collectively, “parties”) who wishes to attend before a Duty Registrar by way of video conferencing must:
 
-> (a) email the Registry at [FJC\_FAMILY\_REGISTRY@judiciary.gov.sg](mailto:FJC\_FAMILY\_REGISTRY@judiciary.gov.sg) (for matters filed through the IELS such as injunctions, extension of time etc.) or [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC\_MAINTPOS@judiciary.gov.sg) (for maintenance and personal protection matters under the Women’s Charter 1961, the Maintenance Orders (Reciprocal Enforcement) Act 1975 or the Vulnerable Adults Act 2018); or
+> (a) email the Registry at [FJC\_FAMILY\_REGISTRY@judiciary.gov.sg](mailto:FJC_FAMILY_REGISTRY@judiciary.gov.sg) (for matters filed through the IELS such as injunctions, extension of time etc.) or [FJC\_MAINTPOS@judiciary.gov.sg](mailto:FJC_MAINTPOS@judiciary.gov.sg) (for maintenance and personal protection matters under the Women’s Charter 1961, the Maintenance Orders (Reciprocal Enforcement) Act 1975 or the Vulnerable Adults Act 2018); or
 >
 > &#x20;(b) file a letter of request via the Electronic Filing Service.
 
@@ -196,7 +196,7 @@ _**Attendance before the Duty Registrar by video conferencing**_
 >
 > (g) the name(s) of all the parties who will be attending the hearing before the Duty Registrar, and the email address and telephone number of these parties.&#x20;
 
-(13) If parties wish to tender any hard copy documents ahead of the hearing before the Duty Registrar, parties should as far as possible provide the hard copies and ensure that they have been placed before the Duty Registrar sufficiently far in advance before the scheduled hearing. Parties should check with the Registry that the documents have been placed before the Duty Registrar before the scheduled hearing.
+(13) If parties wish to tender any hard copy documents ahead of the hearing before the Duty Registrar, parties should as far as possible provide the hard copies and ensure that they have been placed before the Duty Registrar sufficiently far in advance before the scheduled hearing. Parties should check with the Registry that the documents have been placed before the Duty Registrar before the scheduled hearing. Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 _**Physical attendance before the Duty Registrar**_
 
@@ -254,17 +254,27 @@ _**Request for urgent hearing before Duty District Judge or Assistant Registrar 
 >
 > (d) a summary of arguments.
 
-(7) The applicant’s skeletal submissions should be in the following format:
+(7) The applicant’s skeletal submissions must be in the following format:
 
-> (a) all pages should be paginated;
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively;
 >
 > (b) the skeletal submissions should not exceed 10 pages (excluding the cover page and backing page);
 >
-> (c) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (c) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
 >
-> (d) the print of every page must be double-spaced; and
+> (d) the print of every page must be double-spaced, except for the following, which may be single-spaced:
 >
-> (e) every page must have a margin on all 4 sides, each of at least 35mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts;
+>
+> (e) every page must have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (f) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 _**Request for urgent hearing before Judge of the Family Division**_
 
@@ -674,7 +684,7 @@ _**Time for filing of documents**_
 
 (2) In the event that it is not possible to file the documents in advance of the hearing, solicitors may apply to the Judge or Registrar conducting the hearing for permission:
 
-> (a) to use hard copy documents during the hearing. The hard copy documents should be printed on both sides of each page where possible; or
+> (a) to use hard copy documents during the hearing. Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered; or
 >
 > (b) to display a soft copy of the document by sharing his or her screen during the hearing (if the hearing is conducted by video-conferencing).
 
@@ -710,13 +720,35 @@ _**General requirements as regards documents filed for use in Court**_
 > >
 > > (ii) the party chooses to tender hard copy of the document to the Registry.
 
+(4A) Pleadings, the texts of affidavits (as opposed to the exhibits), opening statements and written submissions filed in or submitted to the Court must comply with the following requirements:
+
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively;
+>
+> (b) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
+>
+> (c) the print of every page must be double-spaced, except for the following, which may be single-spaced:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts;
+>
+> (d) every page must have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (e) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
+
+(4B) Sub-paragraph (4A) does not apply to any documents for which specific directions on formatting are provided for in these Practice Directions.
+
 _**Bundle of authorities**_
 
 (5) Where bundles of authorities are required to be filed under these Practice Directions or by the Court, the following directions, unless otherwise provided by these Practice Directions or ordered by the Court, apply.
 
 (6) Bundles of authorities may be filed, served, delivered or otherwise conveyed using the Electronic Filing Service. A party may also choose not to file the bundle of authorities into the electronic case file and instead submit a hard copy of the bundle of authorities for hearings according to the directions in this Part.
 
-(7) The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. The hard copy of the bundle of authorities should be printed on both sides of each page where possible. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
+(7) The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used
 
 (8) Solicitors must adhere to the following directions when preparing bundles of authorities for use in Court:
 
@@ -746,7 +778,7 @@ _**Bundle of authorities**_
 >
 > (g) The bundle of authorities must have flags to mark out the authorities. Such flags must bear the appropriate indicium by which the authority is referred to. Flags must be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another.
 >
-> (h) The bundle of authorities must be paginated consecutively at the top right hand corner of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+> (h) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 >
 > (i) The bundle of authorities must be legible. Clear copies of the authorities must be made available for inspection by the other parties or the Judge if the copies exhibited in the bundle of authorities are not legible.
 
@@ -760,7 +792,7 @@ _**Bundle of authorities**_
 >
 > (b) The name given to each bookmark should be the same as the corresponding authority in the table of contents.
 >
-> (c) The page number of each printed volume of the bundle must correspond to the page number in the Portable Document Format (PDF) version of that volume of the bundle. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+> (c) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (8)(h).
 
 ## 125. Hearings in chambers
 
@@ -780,13 +812,23 @@ _**Bundle of authorities**_
 >
 > (b) the table of contents must be included at the beginning of the document immediately after the cover page(s);
 >
-> (c) all pages must be paginated, with the page numbers corresponding to the Portable Document Format (PDF) version of the document;
+> (c) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document, the page number must be inserted at the top right hand corner of the page;
 >
-> (d) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (d) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
 >
-> (e) the print of every page must be double-spaced; and
+> (e) the print of every page must be double-spaced, except for the following, which may be single-spaced:
 >
-> (f) every page must have a margin on all 4 sides, each of at least 35 mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts;
+>
+> (f) every page must have a margin on all 4 sides, each of at least 35 mm in width; and
+>
+> (g) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 (4) The table below sets out the prescribed page limits for written submissions for the following applications:
 
@@ -804,7 +846,7 @@ _**Bundle of authorities**_
 
 > (a) submit to the Court and serve on the other party a hard copy of the following documents at least 1 clear day before the hearing:
 >
-> > (i) written submissions (with a cover page and a table of contents); and
+> > (i) written submissions (with a cover page and a table of contents in compliance with the requirements under paragraph 124(4A) of these Practice Directions); and
 > >
 > > (ii) bundle of authorities (which are in compliance with the requirements under paragraphs 124(5) to (11) of these Practice Directions); and
 >
@@ -968,13 +1010,21 @@ _**Request for Registrar to produce document or Court’s records**_
 
 ## 133. Form of affidavits
 
-(1) In addition to the requirements under Part 15, Rule 24 of the Family Justice (General) Rules 2024, affidavits should comply with the requirements set out in this Practice Direction.
+(1) In addition to the requirements under Part 15, Rule 24 of the Family Justice (General) Rules 2024, affidavits must comply with the requirements set out in this Practice Direction.
 
 (2) When filing affidavits through the Electronic Filing Service for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 
-(3) Affidavits shall have a blank margin of not less than 35mm wide on all 4 sides of each page.
+(3) Every page must have a margin on all 4 sides, each of at least 35mm in width.
 
-(4) The text of the affidavits, as opposed to the exhibits, must be printed or typed and doubled-spaced on white paper.
+(4) The text of affidavits (as opposed to the exhibits) must be printed or typed on white paper, and the print of every page of the text of affidavits (as opposed to the exhibits) must be double-spaced, except for the following, which may be single-spaced:
+
+> (a) cover pages and tables of contents;
+>
+> (b) paragraph and section headings or sub-headings;
+>
+> (c) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+>
+> (d) extracts of transcripts.
 
 (5) The following information must be typed or printed in a single line at the top right hand corner of the first page of every affidavit:
 
@@ -992,7 +1042,9 @@ _**Request for Registrar to produce document or Court’s records**_
 >
 > “Respondent: Tan Ah Kow: 4th: 15.4.2024: AM hearing”; and “Respondent: Tan Ah Kow: 4th: 15.4.2024: SUM hearing: SUM no. 1234 of 2024".
 
-(6) Every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 136(3).
+(6) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+
+(6A) Except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent.
 
 _**Hard copy affidavits**_
 
@@ -1000,7 +1052,7 @@ _**Hard copy affidavits**_
 
 (8) Affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled firmly at the top left hand corner of the paper. Any affidavit (including exhibits, dividing and backing sheets) exceeding 30 pages must be bound with plastic ring binding or plastic spine thermal binding (the plastic rings or spines to be red for applicants / appellants, and blue for respondents) with a transparent plastic cover in front and at the back.
 
-(9) Unless otherwise directed by the Court, hard copies of affidavits shall be printed on both sides of each page.
+(9) Unless otherwise directed by the Court, parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 ## 134. Forms that are deemed to be affidavits
 
@@ -1041,7 +1093,7 @@ _**More than 10 documentary exhibits**_
 
 _**Pagination**_
 
-(3) Every page of the exhibits, including cover pages, dividing sheets or separators between exhibits, must be consecutively numbered at the top right hand corner of each page, following from the page numbers of the text of the affidavit (i.e. the first page of the exhibits must take the page number following the last sheet of the text of the affidavit). The page number of the affidavit must correspond to the page number in the Portable Document Format (PDF) version that is filed through the Electronic Filing Service.
+(3) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 _**Dividing sheets**_
 

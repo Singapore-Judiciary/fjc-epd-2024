@@ -34,7 +34,7 @@ _**Margins**_
 
 _**Pagination**_
 
-(b) Every page of a bill of costs must be paginated consecutively at the centre top of the page.
+(b) All pages of a bill of costs (including, where applicable, the cover page, the table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 _**Format**_
 

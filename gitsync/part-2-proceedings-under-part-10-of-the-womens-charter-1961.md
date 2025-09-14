@@ -212,7 +212,7 @@ _**Uncontested matrimonial proceedings in Court**_
 >
 > (c) an opening statement.
 
-(3) Documents for use in trial must be filed in Court using the Electronic Filing Service. Hard copies of the same should only be tendered to the Registry if required. The hard copy must tally in all respects with the soft copy, and the page numbers of the hard copy must correspond to the page numbers in the soft copy.
+(3) Documents for use in trial must be filed in Court using the IELS. Hard copies of the same should only be tendered to the Registry if required. The hard copy must tally in all respects with the soft copy, and all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the IELS, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Parties should adhere as far as possible to the guidelines set out on the IELS website at https://www.elitigation.sg on the resolution to be used when scanning documents into PDF.
 
 (4) At the trial, an adjournment may be ordered if:
 
@@ -238,11 +238,11 @@ _**Bundle of documents**_
 >
 > (b) each volume must have an index of contents indicating the documents that are contained in that volume.
 
-(11) The bundles of documents should be paginated consecutively throughout at the top right hand corner. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+(11) All pages of the bundles of documents (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (3).
 
 (12) The following directions apply to hard copies tendered to the Registry or the Court:
 
-> (a) The bundles of documents should be printed on both sides of each page where possible.
+> (a) Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 >
 > (b) The documents in the bundles should:
 >
@@ -292,13 +292,21 @@ _**Opening statements**_
 >
 > (d) The following format must be adhered to when preparing opening statements:
 >
-> > (i) all pages must be paginated, with the first page numbered as “Page 1” so that the page numbers of the hard copy correspond to the page numbers in the Portable Document Format (PDF) version;
+> > (i) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (3);
 > >
-> > (ii) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> > (ii) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
 > >
-> > (iii) the print of every page must be double spaced;
+> > (iii) the print of every page must be double spaced, except for the following, which may be single-spaced:
 > >
-> > (iv) the hard copy should be printed on both sides of each page where possible; and
+> > > (A) cover pages and tables of contents;
+> > >
+> > > (B) paragraph and section headings or sub-headings;
+> > >
+> > > &#x20;(C) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> > >
+> > > &#x20;(D) extracts of transcripts.
+> >
+> > (iv) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered; and
 > >
 > > (v) every page must have a margin on all 4 sides, each of at least 35 mm in width.
 >
@@ -374,7 +382,7 @@ _**Completing the binding summary**_
 
 _**Use of Core Document Bundle with the binding summary**_
 
-(8) Parties shall prepare a Core Document Bundle in Form 18 of Appendix A of these Practice Directions, containing key documents which he or she intends to rely on for the hearing.
+(8) Parties shall prepare a Core Document Bundle in Form 18 of Appendix A of these Practice Directions, containing key documents which he or she intends to rely on for the hearing. All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the IELS, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 (9) The Core Document Bundle must only contain documents which are included in the filed affidavits. The content page of the Core Document Bundle should identify the source of each document in the Core Document Bundle by providing the corresponding reference in the filed affidavits.
 

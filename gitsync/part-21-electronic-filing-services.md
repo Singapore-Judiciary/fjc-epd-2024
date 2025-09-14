@@ -106,9 +106,11 @@ Where documents are served using the IELS, a Certificate of Service will automat
 
 (3) In the event that the IELS fails to automatically generate the document information page, parties may undertake the procedure outlined in paragraph 181(2) of these Practice Directions.
 
+(4) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+
 ## 176. Pagination of documents
 
-Every single page of a document must be paginated so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file. The attention of solicitors is drawn to paragraphs 133(6) and 136(3) in this regard. This is to facilitate hearings involving reference to both hard and soft copies of the same document.
+All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Attention is drawn to paragraphs 133(6) and 136(3) in this regard. This is to facilitate hearings involving reference to both hard and soft copies of the same document.
 
 ## 177. Filing documents through service bureau
 
@@ -242,7 +244,7 @@ All complaints are to be electronically filed through the iFAMS. To avoid doubt,
 
 (3) Unless otherwise provided for in these Practice Directions or directed by the Court, it is not necessary for documents that are electronically filed in Court to have a cover page or backing sheet.
 
-(4) Every single page of a document must be paginated consecutively so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file. Unless otherwise provided for in these Practice Directions, the page number must be inserted at the top right hand corner of the page.
+(4) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 ## 189. Documents which cannot be converted into electronic format
 

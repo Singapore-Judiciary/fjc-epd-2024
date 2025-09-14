@@ -14,11 +14,23 @@ _**Formatting requirements and page limits for appeals under Part 19 of the Fami
 
 (2) The formatting requirements for written submissions, appellant’s Case and respondent’s Case filed under Part 19 of the Family Justice (General) Rules 2024 are as follows:
 
-> (a) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document, the page number must be inserted at the top right hand corner of the page;
 >
-> (b) the print of every page must be double-spaced; and
+> (b) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
 >
-> (c) every page must have a margin on all 4 sides, each of at least 35 mm in width.
+> (c) the print of every page must be double-spaced, except for the following, which may be single-spaced:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts;
+>
+> (d) every page must have a margin on all 4 sides, each of at least 35 mm in width; and
+>
+> (e) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 (3) The following page limits apply to appeals under Part 19 of the Family Justice (General) Rules 2024:
 
@@ -61,7 +73,7 @@ Appellant’s Case, respondent’s Case and core bundle of documents required un
 >
 > (b) Volume B – All other documents referred to in Part 19, Rule 25 of the Family Justice (General) Rules 2024 and a table of contents listing the documents included therein.
 
-(11) Each volume of the appellant’s and respondent’s core bundles of documents and subsequent bundles (if any) must begin at page 1. Every page must be numbered and the page number of the appellant’s and respondent’s core bundles of documents and any subsequent bundles must correspond to the page number of the Portable Document Format (PDF) version.
+(11) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in paragraph 146(2)(a), and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 _**Submission of hard copies of appeal documents**_
 
@@ -73,6 +85,8 @@ _**Submission of hard copies of appeal documents**_
 | **Division 3 — Appeal from judge of Family Court to Family Division**                                                                   | Part 19, Rule 23(5) | <ul><li>Written submissions</li></ul><ul><li>Bundle of authorities</li></ul>                                                                                                  | Each party is to submit 1 hard copy each of his or her respective documents.     |
 | **Division 4 — Appeals from judgments and orders made after hearing on merits**                                                         | Part 19, Rule 30(4) | <ul><li>Record of appeal</li></ul><ul><li>Appellant’s Case</li></ul><ul><li>Appellant’s core bundle of documents</li></ul><ul><li>Appellant’s bundle of authorities</li></ul> | The appellant is to submit 1 hard copy each of his or her respective documents.  |
 |                                                                                                                                         | Part 19, Rule 30(8) | <ul><li>Respondent’s case</li></ul><ul><li>Respondent’s core bundle of documents</li></ul><ul><li>Respondent’s bundle of authorities</li></ul>                                | The respondent is to submit 1 hard copy each of his or her respective documents. |
+
+(13) Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 ## 147. Request for further arguments before Judge
 
