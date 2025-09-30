@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 15 SEPTEMBER 2025'
+description: 'LAST UPDATED: 1 OCTOBER 2025'
 ---
 
 # Family Justice Courts Practice Directions 2024
@@ -346,7 +346,7 @@ description: 'LAST UPDATED: 15 SEPTEMBER 2025'
 
 116\. Court dress
 
-117\. Submissions and examination by leading and assisting solicitor
+117\. Submissions and examination by leading and junior assisting solicitor
 
 118\. Applications under section 43(3) or 57(8) of the Adoption of Children Act 2022 or section 14 of the Guardianship of Infants Act 1934
 

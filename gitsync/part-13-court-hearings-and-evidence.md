@@ -28,7 +28,7 @@
 >
 > 116\. Court dress
 >
-> 117\. Submissions and examination by leading and assisting solicitor
+> 117\. Submissions and examination by leading and junior assisting solicitor
 >
 > 118\. Applications under section 43(3) or 57(8) of the Adoption of Children Act 2022 or section 14 of the Guardianship of Infants Act 1934
 >
@@ -474,27 +474,27 @@ _**Mediations**_
 >
 > (b) The attire for female solicitors will be as described in sub-paragraph (3), save that a single-coloured blouse or a single-coloured dress of neutral or subdued shades instead of a white blouse may be worn.
 
-## 117. Submissions and examination by leading and assisting solicitor
+## 117. Submissions and examination by leading and junior assisting solicitor
 
-(1) Subject to sub-paragraphs (2) and (3), in the event that a party is represented by more than one solicitor at a hearing, whether in open court, in Court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one solicitor for each party only.
+(1) In the event that a party is represented by more than one solicitor at a hearing, whether in open court, in Court or in chambers, more than one solicitor (including junior assisting solicitor) may undertake part of the oral advocacy including the making of submissions and the questioning of witnesses.
 
-(2) If a party would like certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by a different solicitor in the same case, an oral application for permission to do so should be made to the Court as early as is practicable and by no later than the commencement of the trial or hearing. The following information should be provided to the Court for the purposes of the application:
+(1A) Lead solicitors are strongly encouraged to give junior assisting counsel more opportunities for oral advocacy at a hearing. This contributes to their development as advocates and promotes renewal of the Bar. Lead counsel should apprise the client of the potential benefits of allocating certain advocacy tasks to junior assisting solicitors, including reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore obtain instructions to conduct the proceedings in accordance with sub-paragraph (2).
+
+(2) If a party would like certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by a different solicitor in the same case, lead solicitor should inform the Court as early as is practicable at a Case Conference or Mention, and by no later than the commencement of the trial or hearing. The following information should be provided to the Court:
 
 > (a) the issues on which each solicitor will be making submissions; and / or
 >
 > (b) the witnesses to be examined, cross-examined or re-examined by each solicitor, or the portions of their evidence for which each solicitor will conduct the examination, cross-examination or re-examination.&#x20;
 
-Nothing in this paragraph detracts from the responsibility of the lead solicitor to ensure that all solicitors making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
+(3)       If the Court has been informed of the allocation of oral advocacy tasks in accordance with sub-paragraph (2), unless otherwise directed by the Court,
 
-(3) If permission has been granted in accordance with sub-paragraph (2), each solicitor should ensure that he or she confines himself or herself to the issues or portions of evidence in respect of which permission was granted, and that there is no overlap in the issues or the examination being dealt with by different solicitors for the same party. Further, a solicitor must not repeat, clarify or expand on any submissions that have been made by another solicitor for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another solicitor for the same party.
-
-(4) For civil proceedings, lead solicitors are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting solicitors, including the potential benefits of reduced legal costs and increased focus by lead solicitors on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with sub-paragraph (2). In this regard, lead solicitors are encouraged to consider that giving junior assisting solicitors more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
-
-(5) For civil trials:
-
-> (a) notwithstanding sub-paragraphs (1) and (2), and save where the lead solicitor is a junior solicitor, the junior assisting solicitor shall deliver the oral opening statement unless the Court otherwise orders; and
+> (a) each solicitor should ensure that he or she confines himself or herself to the issues or portions of evidence as allocated to him or her and that there is no overlap in the issues or the examination being dealt with by different solicitors for the same party; and
 >
-> (b) the lead solicitor is to inform the trial judge at the Judge Pre-Trial Conference (“JPTC”), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) and, if so, the proposed division of advocacy tasks between the lead solicitor and junior assisting solicitor.
+> (b) a solicitor must not repeat, clarify or expand on any submissions that have been made by another solicitor for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another solicitor for the same party.
+
+(4) Nothing in this paragraph detracts from the responsibility of the lead solicitor to ensure that all solicitors making submissions, or having conduct of any portion of the examination, cross- examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
+
+(5) This Paragraph shall apply to all proceedings in the Family Courts, Youth Courts and Family Division of the High Court.
 
 ## 118. Applications under section 43(3) or 57(8) of the Adoption of Children Act 2022 or section 14 of the Guardianship of Infants Act 1934
 
