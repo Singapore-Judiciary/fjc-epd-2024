@@ -40,7 +40,17 @@ _**Application**_
 
 _**Appeals**_
 
-(2) Skeletal arguments must be filed at least 10 days before the hearing. Hard copies of the bundles of authorities and skeletal arguments shall be tendered to the Registry at the same time as they are filed.
+(2) Subject to any written law prescribing timelines for the filing of written submissions in appeals from Youth Courts, and any Court directions:
+
+> (a) The Appellant’s written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., at least 21 days before the day of the hearing.
+>
+> (b) The Respondent’s written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., at least 10 days before the day of the hearing.
+
+(3) Sub-paragraph (2) does not affect any directions issued before 1 June 2026, fixing or informing parties of the timelines for the filing of written submissions in any appeal from a Youth Court, unless otherwise directed by the Court.
+
+(4) Parties in appeals from Youth Courts should ensure that 2 hard copies each of any written submissions and bundle of authorities are tendered to the Registry, unless parties are informed that more than 2 hard copies are to be tendered.
+
+(5) The hard copies of the written submissions and bundles of authorities must be tendered to the Registry at the same time as they are filed.
 
 ## 231. Magistrate’s complaints (private summonses)
 

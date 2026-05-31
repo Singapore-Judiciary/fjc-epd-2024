@@ -1,12 +1,12 @@
 ---
-description: 'LAST UPDATED: 13 MARCH 2026'
+description: 'LAST UPDATED: 1 JUNE 2026'
 ---
 
 # Family Justice Courts Practice Directions 2024
 
 
 
-![](.gitbook/assets/logo.png)
+<img src=".gitbook/assets/logo.png" alt="" width="375">
 
 ## **Contents**
 
